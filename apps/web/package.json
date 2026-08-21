@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "sync-spec": "node scripts/sync-spec.mjs",
+    "predev": "node scripts/sync-spec.mjs",
     "dev": "next dev -p 3000",
+    "prebuild": "node scripts/sync-spec.mjs",
     "build": "next build",
     "start": "next start -p 3000"
   },

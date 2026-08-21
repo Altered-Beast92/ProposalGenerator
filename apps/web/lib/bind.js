@@ -6,28 +6,30 @@
  * character budget taken from the slot schema. Copy that will not fit is
  * truncated here, visibly, rather than being left to overflow the frame.
  */
-import fs from 'node:fs';
-import path from 'node:path';
+// Imported rather than read from disk: these are bundled by the build, which
+// is what makes them exist in a serverless deployment. Reading them by path
+// worked locally and would 500 on Vercel, where only apps/web is deployed and
+// the tracer cannot see a runtime fs.readFileSync. `npm run sync-spec` (wired
+// to predev/prebuild) refreshes these from packages/spec.
+import bindings from '../spec/content/bindings.json';
+import seoAdsSlots from '../spec/content/seo-ads.slots.json';
+import seoOnlySlots from '../spec/content/seo-only.slots.json';
 
-const SPEC_DIR = path.resolve(process.cwd(), '..', '..', 'packages', 'spec');
+const SLOT_SPECS = {
+  'seo-only': seoOnlySlots,
+  'seo-ads': seoAdsSlots,
+};
 
-let bindingsCache = null;
 const slotCache = new Map();
 
 export function loadBindings() {
-  if (!bindingsCache) {
-    bindingsCache = JSON.parse(
-      fs.readFileSync(path.join(SPEC_DIR, 'content', 'bindings.json'), 'utf8'),
-    );
-  }
-  return bindingsCache;
+  return bindings;
 }
 
 export function loadSlots(template) {
   if (!slotCache.has(template)) {
-    const spec = JSON.parse(
-      fs.readFileSync(path.join(SPEC_DIR, 'content', `${template}.slots.json`), 'utf8'),
-    );
+    const spec = SLOT_SPECS[template];
+    if (!spec) throw new Error(`no slot spec for template '${template}'`);
     slotCache.set(template, new Map(spec.slots.map((s) => [s.key, s])));
   }
   return slotCache.get(template);

@@ -14,7 +14,9 @@ __pycache__/
 /coverage
 
 # next.js
-/.next/
+# Unrooted: the app lives at apps/web, so "/.next/" matched nothing and its
+# build cache was being committed.
+.next/
 /out/
 
 # production / rendered output
@@ -42,3 +44,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# build artifact: copied from packages/spec by apps/web/scripts/sync-spec.mjs
+apps/web/spec/
