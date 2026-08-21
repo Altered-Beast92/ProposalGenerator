@@ -83,11 +83,22 @@ export async function POST(request) {
     }
 
     const endpoint = rendererEndpoint();
+
+    // Deployment Protection guards the deployment's own URL, so this call to a
+    // sibling function is challenged like any outside request - it carries no
+    // SSO cookie and gets a 401. The bypass secret is the supported way through
+    // for machine traffic; without it, protection has to be off.
+    const headers = { 'Content-Type': 'application/json' };
+    if (process.env.VERCEL_AUTOMATION_BYPASS_SECRET) {
+      headers['x-vercel-protection-bypass'] = process.env.VERCEL_AUTOMATION_BYPASS_SECRET;
+      headers['x-vercel-set-bypass-cookie'] = 'true';
+    }
+
     let res;
     try {
       res = await fetch(endpoint, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers,
         body: JSON.stringify({
           template,
           theme: body.theme && Object.keys(body.theme).length ? body.theme : null,
@@ -111,6 +122,24 @@ export async function POST(request) {
 
     if (!res.ok) {
       const detail = await res.text().catch(() => '');
+
+      // A 401 here is almost never the renderer's doing; it is Vercel's
+      // Deployment Protection challenging the request. Say so, because the raw
+      // SSO payload gives the reader nothing to act on.
+      if (res.status === 401 && detail.includes('vercel_auth')) {
+        return Response.json(
+          {
+            error: 'blocked by Deployment Protection',
+            detail:
+              'Vercel Authentication is enabled on this deployment, so the app cannot call its own ' +
+              'render function - and anyone without a Vercel account cannot open the app either. ' +
+              'Turn it off under Settings > Deployment Protection, or enable Protection Bypass for ' +
+              'Automation so VERCEL_AUTOMATION_BYPASS_SECRET is available.',
+          },
+          { status: 401 },
+        );
+      }
+
       return Response.json({ error: 'render failed', detail }, { status: res.status });
     }
 
