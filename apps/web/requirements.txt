@@ -1,0 +1,5 @@
+# Dependencies for the Python serverless function in api/.
+# Vercel installs these automatically when it detects api/*.py.
+# Deliberately minimal: the platform supplies the HTTP server, so there is no
+# web framework here.
+reportlab>=4.0

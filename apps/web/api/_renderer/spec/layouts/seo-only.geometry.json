@@ -1,0 +1,4055 @@
+{
+  "source": "seo-only.pdf",
+  "extractedAt": "2026-08-21T05:28:30.691Z",
+  "pageCount": 11,
+  "fonts": {
+    "g_d0_f3": "Helvetica-Bold",
+    "g_d0_f4": "Helvetica"
+  },
+  "palette": {
+    "#53566C": 93,
+    "#222132": 54,
+    "#8734EF": 49,
+    "#DCDDE7": 47,
+    "#08CDB2": 43,
+    "#FFFFFF": 33,
+    "#8E91A5": 22,
+    "#F0E8FF": 17,
+    "#F8F8FB": 9,
+    "#211B56": 7,
+    "#E65353": 7,
+    "#2AA149": 7,
+    "#E1F9F5": 4,
+    "#E5A40A": 3,
+    "#C9C8D9": 2,
+    "#FCEBEC": 2,
+    "#E6F6EA": 2,
+    "#AAA6C3": 2,
+    "#34247A": 1,
+    "#AA63F5": 1,
+    "#A85CF5": 1,
+    "#31296D": 1,
+    "#51468F": 1,
+    "#8882AE": 1,
+    "#D8D6E7": 1
+  },
+  "pages": [
+    {
+      "page": 1,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#211B56"
+        },
+        {
+          "kind": "roundRect",
+          "x": 580,
+          "y": 325,
+          "w": 360,
+          "h": 360,
+          "radius": 180,
+          "fill": "#34247A"
+        },
+        {
+          "kind": "roundRect",
+          "x": 640,
+          "y": 335,
+          "w": 330,
+          "h": 330,
+          "radius": 165,
+          "fill": "#8734EF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 635,
+          "y": 247,
+          "w": 340,
+          "h": 340,
+          "radius": 170,
+          "fill": "#AA63F5"
+        },
+        {
+          "kind": "roundRect",
+          "x": -155,
+          "y": -144,
+          "w": 260,
+          "h": 260,
+          "radius": 116.71,
+          "fill": "#08CDB2"
+        },
+        {
+          "kind": "rect",
+          "x": 48,
+          "y": 213,
+          "w": 58,
+          "h": 6,
+          "radius": 0,
+          "fill": "#08CDB2"
+        },
+        {
+          "kind": "roundRect",
+          "x": 703,
+          "y": 62,
+          "w": 191,
+          "h": 176,
+          "radius": 11.24,
+          "fill": "#FFFFFF"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#FFFFFF",
+          "text": "SEO GROWTH",
+          "x": 48,
+          "y": 301,
+          "size": 42,
+          "width": 291.66,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#A85CF5",
+          "text": "PROPOSAL",
+          "x": 48,
+          "y": 251,
+          "size": 42,
+          "width": 235.7,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "SEO & Local Search Strategy",
+          "x": 48,
+          "y": 178,
+          "size": 16,
+          "width": 210.77,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "Prepared for Vibes Mortgage & Finance",
+          "x": 48,
+          "y": 148,
+          "size": 16,
+          "width": 299.62,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#C9C8D9",
+          "text": "Ingleburn and South-West Sydney search visibility",
+          "x": 48,
+          "y": 118,
+          "size": 10,
+          "width": 222.33,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#C9C8D9",
+          "text": "Presented by WPPRO · August 2026",
+          "x": 48,
+          "y": 96,
+          "size": 10,
+          "width": 164.53,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#F8F8FB"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 28,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "rule",
+          "x": 60,
+          "y": 342,
+          "w": 380,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "rule",
+          "x": 500,
+          "y": 342,
+          "w": 380,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "rule",
+          "x": 60,
+          "y": 270,
+          "w": 380,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "rule",
+          "x": 500,
+          "y": 270,
+          "w": 380,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "rule",
+          "x": 60,
+          "y": 198,
+          "w": 380,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "rule",
+          "x": 500,
+          "y": 198,
+          "w": 380,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#DCDDE7"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8734EF",
+          "text": "WHAT'S INSIDE",
+          "x": 46,
+          "y": 494,
+          "size": 8,
+          "width": 60.13,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Proposal Overview",
+          "x": 46,
+          "y": 447,
+          "size": 31,
+          "width": 279.12,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "A concise SEO-only plan to improve local visibility, capture high-intent searches and turn more website visits into enquiries.",
+          "x": 46,
+          "y": 403.35,
+          "size": 11.2,
+          "width": 609.44,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Executive Summary",
+          "x": 118,
+          "y": 362,
+          "size": 12,
+          "width": 114.06,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Current Search Position",
+          "x": 558,
+          "y": 362,
+          "size": 12,
+          "width": 137.36,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "01",
+          "x": 60,
+          "y": 358,
+          "size": 21,
+          "width": 23.36,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "02",
+          "x": 500,
+          "y": 358,
+          "size": 21,
+          "width": 23.36,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Local Search Opportunity",
+          "x": 118,
+          "y": 290,
+          "size": 12,
+          "width": 146.69,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Keyword & Competitor Strategy",
+          "x": 558,
+          "y": 290,
+          "size": 12,
+          "width": 181.36,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "03",
+          "x": 60,
+          "y": 286,
+          "size": 21,
+          "width": 23.36,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "04",
+          "x": 500,
+          "y": 286,
+          "size": 21,
+          "width": 23.36,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "SEO & Conversion Strategy",
+          "x": 118,
+          "y": 218,
+          "size": 12,
+          "width": 158.04,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Investment",
+          "x": 558,
+          "y": 218,
+          "size": 12,
+          "width": 63.35,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "05",
+          "x": 60,
+          "y": 214,
+          "size": 21,
+          "width": 23.36,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "06",
+          "x": 500,
+          "y": 214,
+          "size": 21,
+          "width": 23.36,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 13,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "Vibes Mortgage & Finance · SEO Growth Proposal · 02",
+          "x": 754.68,
+          "y": 13,
+          "size": 6.5,
+          "width": 159.32,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#F8F8FB"
+        },
+        {
+          "kind": "roundRect",
+          "x": 624,
+          "y": 365,
+          "w": 280,
+          "h": 72,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 624,
+          "y": 365,
+          "w": 280,
+          "h": 72,
+          "radius": 8.43,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 624,
+          "y": 273,
+          "w": 280,
+          "h": 72,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 624,
+          "y": 273,
+          "w": 280,
+          "h": 72,
+          "radius": 8.43,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 624,
+          "y": 181,
+          "w": 280,
+          "h": 72,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 624,
+          "y": 181,
+          "w": 280,
+          "h": 72,
+          "radius": 8.43,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 28,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#DCDDE7"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#53566C",
+          "text": "service themes visible on site",
+          "x": 706,
+          "y": 411,
+          "size": 9.6,
+          "width": 124.85,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "01 · EXECUTIVE SUMMARY",
+          "x": 46,
+          "y": 398,
+          "size": 8,
+          "width": 104.91,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "8",
+          "x": 642,
+          "y": 395,
+          "size": 22,
+          "width": 12.24,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "A credible mortgage offering,",
+          "x": 46,
+          "y": 351,
+          "size": 31,
+          "width": 432.33,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "lenders referenced on the website",
+          "x": 706,
+          "y": 319,
+          "size": 9.6,
+          "width": 144.62,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "but local search is under-developed",
+          "x": 46,
+          "y": 314,
+          "size": 31,
+          "width": 528.86,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "60+",
+          "x": 642,
+          "y": 303,
+          "size": 22,
+          "width": 37.32,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Vibes Mortgage & Finance already has the essentials to compete online: access to 60+ lenders,",
+          "x": 46,
+          "y": 276,
+          "size": 12.4,
+          "width": 525.58,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "multiple lending services, an Ingleburn office and clear appointment pathways. The opportunity is",
+          "x": 46,
+          "y": 258,
+          "size": 12.4,
+          "width": 531.44,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "to connect those strengths to the local, service-led searches used by borrowers across",
+          "x": 46,
+          "y": 240,
+          "size": 12.4,
+          "width": 474.88,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Ingleburn postcode and local base",
+          "x": 706,
+          "y": 227,
+          "size": 9.6,
+          "width": 146.24,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "South-West Sydney.",
+          "x": 46,
+          "y": 222,
+          "size": 12.4,
+          "width": 113.03,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "2565",
+          "x": 642,
+          "y": 211,
+          "size": 22,
+          "width": 48.94,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "* Public website review completed August 2026.",
+          "x": 705,
+          "y": 34,
+          "size": 6.2,
+          "width": 132,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 13,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "Vibes Mortgage & Finance · SEO Growth Proposal · 03",
+          "x": 754.68,
+          "y": 13,
+          "size": 6.5,
+          "width": 159.32,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#F8F8FB"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 28,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 112,
+          "w": 270,
+          "h": 300,
+          "radius": 9.83,
+          "fill": "#FCEBEC"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 112,
+          "w": 270,
+          "h": 300,
+          "radius": 9.83,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 63,
+          "y": 351,
+          "w": 36,
+          "h": 36,
+          "radius": 14.37,
+          "fill": "#E65353"
+        },
+        {
+          "kind": "roundRect",
+          "x": 75.8,
+          "y": 300.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#E65353"
+        },
+        {
+          "kind": "roundRect",
+          "x": 75.8,
+          "y": 270.4,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#E65353"
+        },
+        {
+          "kind": "roundRect",
+          "x": 75.8,
+          "y": 240,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#E65353"
+        },
+        {
+          "kind": "roundRect",
+          "x": 345,
+          "y": 112,
+          "w": 270,
+          "h": 300,
+          "radius": 9.83,
+          "fill": "#E6F6EA"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 345,
+          "y": 112,
+          "w": 270,
+          "h": 300,
+          "radius": 9.83,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 362,
+          "y": 351,
+          "w": 36,
+          "h": 36,
+          "radius": 14.37,
+          "fill": "#2AA149"
+        },
+        {
+          "kind": "roundRect",
+          "x": 374.8,
+          "y": 300.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#2AA149"
+        },
+        {
+          "kind": "roundRect",
+          "x": 374.8,
+          "y": 258.2,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#2AA149"
+        },
+        {
+          "kind": "roundRect",
+          "x": 374.8,
+          "y": 227.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#2AA149"
+        },
+        {
+          "kind": "roundRect",
+          "x": 644,
+          "y": 112,
+          "w": 270,
+          "h": 300,
+          "radius": 9.83,
+          "fill": "#F0E8FF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 644,
+          "y": 112,
+          "w": 270,
+          "h": 300,
+          "radius": 9.83,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 661,
+          "y": 351,
+          "w": 36,
+          "h": 36,
+          "radius": 14.37,
+          "fill": "#8734EF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 673.8,
+          "y": 300.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8734EF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 673.8,
+          "y": 282.6,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8734EF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 673.8,
+          "y": 252.2,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8734EF"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8734EF",
+          "text": "01 · EXECUTIVE SUMMARY",
+          "x": 46,
+          "y": 494,
+          "size": 8,
+          "width": 104.91,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "The challenge, opportunity & plan",
+          "x": 46,
+          "y": 447,
+          "size": 30,
+          "width": 483.35,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "The Challenge",
+          "x": 109,
+          "y": 363,
+          "size": 16,
+          "width": 109.35,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "The Opportunity",
+          "x": 408,
+          "y": 363,
+          "size": 16,
+          "width": 124.43,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "The Strategy",
+          "x": 707,
+          "y": 363,
+          "size": 16,
+          "width": 96.91,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Search presentation is largely brand-led rather",
+          "x": 92,
+          "y": 307,
+          "size": 8.8,
+          "width": 180.99,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "High-intent searches exist for home loans,",
+          "x": 391,
+          "y": 307,
+          "size": 8.8,
+          "width": 164.35,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Fix technical and on-page foundations first.",
+          "x": 690,
+          "y": 307,
+          "size": 8.8,
+          "width": 167.79,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "than location + service-led.",
+          "x": 92,
+          "y": 294.8,
+          "size": 8.8,
+          "width": 104.93,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "refinancing and mortgage brokers in the local",
+          "x": 391,
+          "y": 294.8,
+          "size": 8.8,
+          "width": 176.1,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Build genuine local relevance around Ingleburn",
+          "x": 690,
+          "y": 288.8,
+          "size": 8.8,
+          "width": 183.46,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "market.",
+          "x": 391,
+          "y": 282.6,
+          "size": 8.8,
+          "width": 29.34,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "High-value borrower journeys are not prominent in",
+          "x": 92,
+          "y": 276.6,
+          "size": 8.8,
+          "width": 195.65,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "and South-West Sydney.",
+          "x": 690,
+          "y": 276.6,
+          "size": 8.8,
+          "width": 97.34,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "the site structure.",
+          "x": 92,
+          "y": 264.4,
+          "size": 8.8,
+          "width": 67.5,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Vibes has broad lender access and service",
+          "x": 391,
+          "y": 264.4,
+          "size": 8.8,
+          "width": 167.78,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Develop useful borrower pages and strengthen",
+          "x": 690,
+          "y": 258.4,
+          "size": 8.8,
+          "width": 182.96,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "coverage to support multiple search entry points.",
+          "x": 391,
+          "y": 252.2,
+          "size": 8.8,
+          "width": 189.79,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Testimonials currently fail to load and the blog",
+          "x": 92,
+          "y": 246.2,
+          "size": 8.8,
+          "width": 179.03,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "proof around priority services.",
+          "x": 690,
+          "y": 246.2,
+          "size": 8.8,
+          "width": 115.92,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "shows no posts.",
+          "x": 92,
+          "y": 234,
+          "size": 8.8,
+          "width": 63.1,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Booking and contact pathways already provide a",
+          "x": 391,
+          "y": 234,
+          "size": 8.8,
+          "width": 189.32,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "workable conversion base.",
+          "x": 391,
+          "y": 221.8,
+          "size": 8.8,
+          "width": 104.19,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 13,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "Vibes Mortgage & Finance · SEO Growth Proposal · 04",
+          "x": 754.68,
+          "y": 13,
+          "size": 6.5,
+          "width": 159.32,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#F8F8FB"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 28,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 325,
+          "w": 424,
+          "h": 88,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 325,
+          "w": 424,
+          "h": 88,
+          "radius": 8.43,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "rect",
+          "x": 46,
+          "y": 325,
+          "w": 5,
+          "h": 88,
+          "radius": 0,
+          "fill": "#E65353"
+        },
+        {
+          "kind": "roundRect",
+          "x": 490,
+          "y": 325,
+          "w": 424,
+          "h": 88,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 490,
+          "y": 325,
+          "w": 424,
+          "h": 88,
+          "radius": 8.43,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "rect",
+          "x": 490,
+          "y": 325,
+          "w": 5,
+          "h": 88,
+          "radius": 0,
+          "fill": "#E5A40A"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 220,
+          "w": 424,
+          "h": 88,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 220,
+          "w": 424,
+          "h": 88,
+          "radius": 8.43,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "rect",
+          "x": 46,
+          "y": 220,
+          "w": 5,
+          "h": 88,
+          "radius": 0,
+          "fill": "#E5A40A"
+        },
+        {
+          "kind": "roundRect",
+          "x": 490,
+          "y": 220,
+          "w": 424,
+          "h": 88,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 490,
+          "y": 220,
+          "w": 424,
+          "h": 88,
+          "radius": 8.43,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "rect",
+          "x": 490,
+          "y": 220,
+          "w": 5,
+          "h": 88,
+          "radius": 0,
+          "fill": "#E65353"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 115,
+          "w": 424,
+          "h": 88,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 115,
+          "w": 424,
+          "h": 88,
+          "radius": 8.43,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "rect",
+          "x": 46,
+          "y": 115,
+          "w": 5,
+          "h": 88,
+          "radius": 0,
+          "fill": "#E5A40A"
+        },
+        {
+          "kind": "roundRect",
+          "x": 490,
+          "y": 115,
+          "w": 424,
+          "h": 88,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 490,
+          "y": 115,
+          "w": 424,
+          "h": 88,
+          "radius": 8.43,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "rect",
+          "x": 490,
+          "y": 115,
+          "w": 5,
+          "h": 88,
+          "radius": 0,
+          "fill": "#2AA149"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8734EF",
+          "text": "02 · CURRENT SEARCH POSITION",
+          "x": 46,
+          "y": 494,
+          "size": 8,
+          "width": 131.57,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Priority SEO findings",
+          "x": 46,
+          "y": 447,
+          "size": 31,
+          "width": 311.76,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Homepage metadata",
+          "x": 66,
+          "y": 385,
+          "size": 12,
+          "width": 117.37,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Search architecture",
+          "x": 510,
+          "y": 385,
+          "size": 12,
+          "width": 112.05,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "The public title is “Vibes Mortgage and Finance” and the description is generic, without a priority",
+          "x": 66,
+          "y": 368,
+          "size": 8.8,
+          "width": 372.23,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "The service range is broad, but priority borrower journeys such as first-home buyers are not",
+          "x": 510,
+          "y": 368,
+          "size": 8.8,
+          "width": 356.07,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "service or location.",
+          "x": 66,
+          "y": 356.5,
+          "size": 8.8,
+          "width": 73.36,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "prominent as dedicated entry points.",
+          "x": 510,
+          "y": 356.5,
+          "size": 8.8,
+          "width": 141.86,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Local relevance",
+          "x": 66,
+          "y": 280,
+          "size": 12,
+          "width": 90.05,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Proof content",
+          "x": 510,
+          "y": 280,
+          "size": 12,
+          "width": 77.99,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "The website lists an Ingleburn office, while key homepage messaging does not strongly target",
+          "x": 66,
+          "y": 263,
+          "size": 8.8,
+          "width": 364.43,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "The testimonials page currently returns a failed-load message and the site shows no published",
+          "x": 510,
+          "y": 263,
+          "size": 8.8,
+          "width": 368.34,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Ingleburn or South-West Sydney search intent.",
+          "x": 66,
+          "y": 251.5,
+          "size": 8.8,
+          "width": 182.45,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "blog posts.",
+          "x": 510,
+          "y": 251.5,
+          "size": 8.8,
+          "width": 42.56,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Content depth",
+          "x": 66,
+          "y": 175,
+          "size": 12,
+          "width": 81.32,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Conversion assets",
+          "x": 510,
+          "y": 175,
+          "size": 12,
+          "width": 106.71,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Service pages explain the offer, but stronger local intent, FAQs, internal links and",
+          "x": 66,
+          "y": 158,
+          "size": 8.8,
+          "width": 315.5,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Appointment booking, phone details and contact forms are already present and can be",
+          "x": 510,
+          "y": 158,
+          "size": 8.8,
+          "width": 336.57,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "conversion-focused copy are needed.",
+          "x": 66,
+          "y": 146.5,
+          "size": 8.8,
+          "width": 146.76,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "strengthened rather than rebuilt.",
+          "x": 510,
+          "y": 146.5,
+          "size": 8.8,
+          "width": 125.24,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "Source: public review of vibesfinance.com.au, August 2026.",
+          "x": 685,
+          "y": 34,
+          "size": 6.2,
+          "width": 164.05,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 13,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "Vibes Mortgage & Finance · SEO Growth Proposal · 05",
+          "x": 754.68,
+          "y": 13,
+          "size": 6.5,
+          "width": 159.32,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#F8F8FB"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 28,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 160,
+          "w": 200,
+          "h": 252,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 160,
+          "w": 200,
+          "h": 252,
+          "radius": 9.83,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "rule",
+          "x": 73,
+          "y": 380,
+          "w": 15,
+          "h": 9,
+          "radius": 0,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "rule",
+          "x": 88,
+          "y": 380,
+          "w": 15,
+          "h": 9,
+          "radius": 0,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "rule",
+          "x": 73,
+          "y": 379,
+          "w": 30,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "rule",
+          "x": 78,
+          "y": 362,
+          "w": 0,
+          "h": 15,
+          "radius": 0,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "rule",
+          "x": 88,
+          "y": 362,
+          "w": 0,
+          "h": 15,
+          "radius": 0,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "rule",
+          "x": 98,
+          "y": 362,
+          "w": 0,
+          "h": 15,
+          "radius": 0,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "rule",
+          "x": 72,
+          "y": 360,
+          "w": 32,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "roundRect",
+          "x": 266,
+          "y": 160,
+          "w": 200,
+          "h": 252,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 266,
+          "y": 160,
+          "w": 200,
+          "h": 252,
+          "radius": 9.83,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 298,
+          "y": 362,
+          "w": 8,
+          "h": 8,
+          "radius": 0.26,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 298,
+          "y": 375,
+          "w": 8,
+          "h": 8,
+          "radius": 0.26,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 311,
+          "y": 362,
+          "w": 8,
+          "h": 8,
+          "radius": 0.26,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 311,
+          "y": 375,
+          "w": 8,
+          "h": 8,
+          "radius": 0.26,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "roundRect",
+          "x": 486,
+          "y": 160,
+          "w": 200,
+          "h": 252,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 486,
+          "y": 160,
+          "w": 200,
+          "h": 252,
+          "radius": 9.83,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 513,
+          "y": 360,
+          "w": 30,
+          "h": 23,
+          "radius": 1.09,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "rule",
+          "x": 515,
+          "y": 371,
+          "w": 13,
+          "h": 9,
+          "radius": 0,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "rule",
+          "x": 528,
+          "y": 371,
+          "w": 13,
+          "h": 9,
+          "radius": 0,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "rule",
+          "x": 532,
+          "y": 363,
+          "w": 4,
+          "h": 4,
+          "radius": 0,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "rule",
+          "x": 536,
+          "y": 363,
+          "w": 7,
+          "h": 8,
+          "radius": 0,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "roundRect",
+          "x": 706,
+          "y": 160,
+          "w": 200,
+          "h": 252,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 706,
+          "y": 160,
+          "w": 200,
+          "h": 252,
+          "radius": 9.83,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 736,
+          "y": 358,
+          "w": 24,
+          "h": 33,
+          "radius": 12,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 744,
+          "y": 375,
+          "w": 8,
+          "h": 8,
+          "radius": 1.76,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "rule",
+          "x": 755,
+          "y": 360,
+          "w": 5,
+          "h": 5,
+          "radius": 0,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "rule",
+          "x": 760,
+          "y": 360,
+          "w": 8,
+          "h": 9,
+          "radius": 0,
+          "stroke": "#08CDB2"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 78,
+          "w": 860,
+          "h": 50,
+          "radius": 7.02,
+          "fill": "#E6F6EA"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8734EF",
+          "text": "02 · CURRENT SEARCH POSITION",
+          "x": 46,
+          "y": 494,
+          "size": 8,
+          "width": 131.57,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "What's already working",
+          "x": 46,
+          "y": 447,
+          "size": 31,
+          "width": 345.01,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "60+ lender proposition",
+          "x": 66,
+          "y": 304,
+          "size": 13,
+          "width": 139.78,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Service breadth",
+          "x": 286,
+          "y": 304,
+          "size": 13,
+          "width": 97.54,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Lead capture",
+          "x": 506,
+          "y": 304,
+          "size": 13,
+          "width": 80.91,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Local & compliance base",
+          "x": 726,
+          "y": 304,
+          "size": 13,
+          "width": 155.33,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "A strong, visible choice message that",
+          "x": 66,
+          "y": 278,
+          "size": 9.4,
+          "width": 155.18,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Home loans, refinance, investment,",
+          "x": 286,
+          "y": 278,
+          "size": 9.4,
+          "width": 147.34,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "The website includes appointment",
+          "x": 506,
+          "y": 278,
+          "size": 9.4,
+          "width": 142.13,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "An Ingleburn address and broker",
+          "x": 726,
+          "y": 278,
+          "size": 9.4,
+          "width": 136.91,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "can support comparison-focused",
+          "x": 66,
+          "y": 265,
+          "size": 9.4,
+          "width": 136.37,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "personal, business and asset finance",
+          "x": 286,
+          "y": 265,
+          "size": 9.4,
+          "width": 154.68,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "booking, phone details and contact",
+          "x": 506,
+          "y": 265,
+          "size": 9.4,
+          "width": 145.29,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "licensing disclosure provide",
+          "x": 726,
+          "y": 265,
+          "size": 9.4,
+          "width": 114.95,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "borrower content.",
+          "x": 66,
+          "y": 252,
+          "size": 9.4,
+          "width": 73.15,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "create several relevant SEO",
+          "x": 286,
+          "y": 252,
+          "size": 9.4,
+          "width": 117.56,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "forms.",
+          "x": 506,
+          "y": 252,
+          "size": 9.4,
+          "width": 26.11,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "foundations for trust and local",
+          "x": 726,
+          "y": 252,
+          "size": 9.4,
+          "width": 123.32,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "pathways.",
+          "x": 286,
+          "y": 239,
+          "size": 9.4,
+          "width": 42.32,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "relevance.",
+          "x": 726,
+          "y": 239,
+          "size": 9.4,
+          "width": 43.37,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#2AA149",
+          "text": "Bottom line:",
+          "x": 66,
+          "y": 99,
+          "size": 10,
+          "width": 58.33,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#2AA149",
+          "text": "Vibes does not need a full website rebuild to start. The priority is clearer search signals, stronger local/service pages and measurable enquiry paths.",
+          "x": 132,
+          "y": 99,
+          "size": 10,
+          "width": 653.68,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 13,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "Vibes Mortgage & Finance · SEO Growth Proposal · 06",
+          "x": 754.68,
+          "y": 13,
+          "size": 6.5,
+          "width": 159.32,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#F8F8FB"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 28,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 161,
+          "w": 540,
+          "h": 125,
+          "radius": 8.43,
+          "fill": "#FCEBEC"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 161,
+          "w": 540,
+          "h": 125,
+          "radius": 8.43,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 625,
+          "y": 153,
+          "w": 281,
+          "h": 275,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 625,
+          "y": 153,
+          "w": 281,
+          "h": 275,
+          "radius": 9.83,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 635,
+          "y": 337,
+          "w": 30,
+          "h": 30,
+          "radius": 10.54,
+          "fill": "#F0E8FF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 635,
+          "y": 282,
+          "w": 30,
+          "h": 30,
+          "radius": 10.54,
+          "fill": "#F0E8FF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 635,
+          "y": 227,
+          "w": 30,
+          "h": 30,
+          "radius": 10.54,
+          "fill": "#F0E8FF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 635,
+          "y": 172,
+          "w": 30,
+          "h": 30,
+          "radius": 10.54,
+          "fill": "#F0E8FF"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8734EF",
+          "text": "03 · LOCAL SEARCH OPPORTUNITY",
+          "x": 46,
+          "y": 431,
+          "size": 8,
+          "width": 139.57,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "PROPOSED LOCAL STRUCTURE",
+          "x": 650,
+          "y": 397,
+          "size": 10,
+          "width": 158.34,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Ingleburn is the right local search anchor",
+          "x": 46,
+          "y": 384,
+          "size": 29,
+          "width": 568.84,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Primary location",
+          "x": 677,
+          "y": 355,
+          "size": 10,
+          "width": 78.36,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "1",
+          "x": 646,
+          "y": 348,
+          "size": 9,
+          "width": 5.01,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Ingleburn + Google Business Profile",
+          "x": 677,
+          "y": 341,
+          "size": 8,
+          "width": 127.86,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "The website lists a genuine Ingleburn office. SEO should establish that proof point first, then expand into",
+          "x": 46,
+          "y": 334,
+          "size": 11.2,
+          "width": 516.14,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "service areas that the team can genuinely support across South-West Sydney.",
+          "x": 46,
+          "y": 318.5,
+          "size": 11.2,
+          "width": 389.09,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Service-area hub",
+          "x": 677,
+          "y": 300,
+          "size": 10,
+          "width": 80.6,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "2",
+          "x": 646,
+          "y": 293,
+          "size": 9,
+          "width": 5.01,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "South-West Sydney / Macarthur",
+          "x": 677,
+          "y": 286,
+          "size": 8,
+          "width": 113.38,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#E65353",
+          "text": "Important setup task",
+          "x": 66,
+          "y": 247,
+          "size": 11,
+          "width": 108.18,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Priority expansion",
+          "x": 677,
+          "y": 245,
+          "size": 10,
+          "width": 87.25,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "3",
+          "x": 646,
+          "y": 238,
+          "size": 9,
+          "width": 5.01,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Campbelltown, Liverpool, Camden",
+          "x": 677,
+          "y": 231,
+          "size": 8,
+          "width": 122.29,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Standardise the business name, phone, address and service-area information across the website, Google",
+          "x": 66,
+          "y": 222,
+          "size": 10,
+          "width": 467.49,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Business Profile and major citations. Local SEO will be stronger once the core business data and target radius",
+          "x": 66,
+          "y": 208,
+          "size": 10,
+          "width": 487.49,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "are confirmed.",
+          "x": 66,
+          "y": 194,
+          "size": 10,
+          "width": 63.92,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Local proof",
+          "x": 677,
+          "y": 190,
+          "size": 10,
+          "width": 54.44,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "4",
+          "x": 646,
+          "y": 183,
+          "size": 9,
+          "width": 5.01,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Reviews, FAQs, service coverage",
+          "x": 677,
+          "y": 176,
+          "size": 8,
+          "width": 120.04,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 13,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "Vibes Mortgage & Finance · SEO Growth Proposal · 07",
+          "x": 754.68,
+          "y": 13,
+          "size": 6.5,
+          "width": 159.32,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#F8F8FB"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 28,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 225,
+          "w": 420,
+          "h": 148,
+          "radius": 9.13,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 225,
+          "w": 420,
+          "h": 148,
+          "radius": 9.13,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 64,
+          "y": 311,
+          "w": 364,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F0E8FF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 64,
+          "y": 280,
+          "w": 364,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F0E8FF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 64,
+          "y": 249,
+          "w": 364,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F0E8FF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 490,
+          "y": 225,
+          "w": 420,
+          "h": 148,
+          "radius": 9.13,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 490,
+          "y": 225,
+          "w": 420,
+          "h": 148,
+          "radius": 9.13,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 508,
+          "y": 311,
+          "w": 364,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F0E8FF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 508,
+          "y": 280,
+          "w": 364,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F0E8FF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 508,
+          "y": 249,
+          "w": 364,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F0E8FF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 63,
+          "w": 420,
+          "h": 148,
+          "radius": 9.13,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 63,
+          "w": 420,
+          "h": 148,
+          "radius": 9.13,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 64,
+          "y": 149,
+          "w": 364,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F0E8FF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 64,
+          "y": 118,
+          "w": 364,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F0E8FF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 64,
+          "y": 87,
+          "w": 364,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F0E8FF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 490,
+          "y": 63,
+          "w": 420,
+          "h": 148,
+          "radius": 9.13,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 490,
+          "y": 63,
+          "w": 420,
+          "h": 148,
+          "radius": 9.13,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 508,
+          "y": 149,
+          "w": 364,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F0E8FF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 508,
+          "y": 118,
+          "w": 364,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F0E8FF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 508,
+          "y": 87,
+          "w": 364,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F0E8FF"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8734EF",
+          "text": "04 · KEYWORD & COMPETITOR STRATEGY",
+          "x": 46,
+          "y": 494,
+          "size": 8,
+          "width": 167.12,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Preliminary keyword direction",
+          "x": 46,
+          "y": 447,
+          "size": 31,
+          "width": 442.76,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Strategic themes for the proposal. Final keywords, volumes and priorities should be validated in Keyword Planner and Search Console during onboarding.",
+          "x": 46,
+          "y": 403.35,
+          "size": 11.2,
+          "width": 762.03,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "CORE LOCAL",
+          "x": 64,
+          "y": 345,
+          "size": 11,
+          "width": 72.72,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "HOME PURCHASE",
+          "x": 508,
+          "y": 345,
+          "size": 11,
+          "width": 97.79,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "mortgage broker Ingleburn",
+          "x": 76,
+          "y": 319,
+          "size": 8.3,
+          "width": 106.07,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "home loan broker Ingleburn",
+          "x": 520,
+          "y": 319,
+          "size": 8.3,
+          "width": 109.76,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "mortgage broker South-West Sydney",
+          "x": 76,
+          "y": 288,
+          "size": 8.3,
+          "width": 146.19,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "first home buyer broker Sydney",
+          "x": 520,
+          "y": 288,
+          "size": 8.3,
+          "width": 125,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "mortgage broker Macarthur",
+          "x": 76,
+          "y": 257,
+          "size": 8.3,
+          "width": 108.39,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "home loan pre-approval broker",
+          "x": 520,
+          "y": 257,
+          "size": 8.3,
+          "width": 122.22,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "REFINANCE",
+          "x": 64,
+          "y": 183,
+          "size": 11,
+          "width": 64.17,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "INVESTMENT & BUSINESS",
+          "x": 508,
+          "y": 183,
+          "size": 11,
+          "width": 141.18,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "refinance broker Ingleburn",
+          "x": 76,
+          "y": 157,
+          "size": 8.3,
+          "width": 105.16,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "investment loan broker Sydney",
+          "x": 520,
+          "y": 157,
+          "size": 8.3,
+          "width": 123.15,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "home loan health check Sydney",
+          "x": 76,
+          "y": 126,
+          "size": 8.3,
+          "width": 125.92,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "business loan broker Macarthur",
+          "x": 520,
+          "y": 126,
+          "size": 8.3,
+          "width": 125.92,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "debt consolidation refinance broker",
+          "x": 76,
+          "y": 95,
+          "size": 8.3,
+          "width": 141.12,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "asset finance broker Liverpool",
+          "x": 520,
+          "y": 95,
+          "size": 8.3,
+          "width": 120.39,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 13,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "Vibes Mortgage & Finance · SEO Growth Proposal · 08",
+          "x": 754.68,
+          "y": 13,
+          "size": 6.5,
+          "width": 159.32,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#F8F8FB"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 28,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 150,
+          "w": 200,
+          "h": 205,
+          "radius": 9.13,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 150,
+          "w": 200,
+          "h": 205,
+          "radius": 9.13,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 64,
+          "y": 172,
+          "w": 164,
+          "h": 30,
+          "radius": 5.49,
+          "fill": "#E1F9F5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 266,
+          "y": 150,
+          "w": 200,
+          "h": 205,
+          "radius": 9.13,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 266,
+          "y": 150,
+          "w": 200,
+          "h": 205,
+          "radius": 9.13,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 284,
+          "y": 172,
+          "w": 164,
+          "h": 30,
+          "radius": 5.49,
+          "fill": "#E1F9F5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 486,
+          "y": 150,
+          "w": 200,
+          "h": 205,
+          "radius": 9.13,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 486,
+          "y": 150,
+          "w": 200,
+          "h": 205,
+          "radius": 9.13,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 504,
+          "y": 172,
+          "w": 164,
+          "h": 30,
+          "radius": 5.49,
+          "fill": "#E1F9F5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 706,
+          "y": 150,
+          "w": 200,
+          "h": 205,
+          "radius": 9.13,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 706,
+          "y": 150,
+          "w": 200,
+          "h": 205,
+          "radius": 9.13,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 724,
+          "y": 172,
+          "w": 164,
+          "h": 30,
+          "radius": 5.49,
+          "fill": "#E1F9F5"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8734EF",
+          "text": "04 · KEYWORD & COMPETITOR STRATEGY",
+          "x": 46,
+          "y": 494,
+          "size": 8,
+          "width": 167.12,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "The local search field is competitive - but clear",
+          "x": 46,
+          "y": 447,
+          "size": 29,
+          "width": 643.04,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Representative Sydney mortgage-broker competitors use local pages, strong proof and borrower-specific content. These examples indicate the presentation gap Vibes needs",
+          "x": 46,
+          "y": 405.65,
+          "size": 11.2,
+          "width": 859.77,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "to close; they are not claims about fixed rankings.",
+          "x": 46,
+          "y": 390.15,
+          "size": 11.2,
+          "width": 245.28,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Finance in Sydney",
+          "x": 64,
+          "y": 315,
+          "size": 13,
+          "width": 114.14,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "AFMS Group",
+          "x": 284,
+          "y": 315,
+          "size": 13,
+          "width": 79.43,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Tim Perry Finance",
+          "x": 504,
+          "y": 315,
+          "size": 13,
+          "width": 112.71,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "SKF Finance",
+          "x": 724,
+          "y": 315,
+          "size": 13,
+          "width": 78.74,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "BROAD SYDNEY POSITIONING",
+          "x": 64,
+          "y": 286,
+          "size": 8,
+          "width": 119.13,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "TRUST & AUTHORITY",
+          "x": 284,
+          "y": 286,
+          "size": 8,
+          "width": 83.55,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "PERSONAL BRAND",
+          "x": 504,
+          "y": 286,
+          "size": 8,
+          "width": 75.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "SERVICE BREADTH",
+          "x": 724,
+          "y": 286,
+          "size": 8,
+          "width": 76.45,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Established experience messaging and",
+          "x": 64,
+          "y": 266,
+          "size": 9,
+          "width": 156.6,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Strong lender, credential, team and",
+          "x": 284,
+          "y": 266,
+          "size": 9,
+          "width": 140.59,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Simple conversion path, strong reviews",
+          "x": 504,
+          "y": 266,
+          "size": 9,
+          "width": 156.57,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Boutique positioning across home,",
+          "x": 724,
+          "y": 266,
+          "size": 9,
+          "width": 137.58,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "a clear home-loan-specialist story.",
+          "x": 64,
+          "y": 253.5,
+          "size": 9,
+          "width": 136.56,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "review proof throughout the site.",
+          "x": 284,
+          "y": 253.5,
+          "size": 9,
+          "width": 128.58,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "and borrower-friendly positioning.",
+          "x": 504,
+          "y": 253.5,
+          "size": 9,
+          "width": 133.07,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "commercial and asset-finance needs.",
+          "x": 724,
+          "y": 253.5,
+          "size": 9,
+          "width": 149.08,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#211B56",
+          "text": "LOCAL RELEVANCE = ADVANTAGE",
+          "x": 80,
+          "y": 183,
+          "size": 7.3,
+          "width": 126.74,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#211B56",
+          "text": "LOCAL RELEVANCE = ADVANTAGE",
+          "x": 300,
+          "y": 183,
+          "size": 7.3,
+          "width": 126.74,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#211B56",
+          "text": "LOCAL RELEVANCE = ADVANTAGE",
+          "x": 520,
+          "y": 183,
+          "size": 7.3,
+          "width": 126.74,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#211B56",
+          "text": "LOCAL RELEVANCE = ADVANTAGE",
+          "x": 740,
+          "y": 183,
+          "size": 7.3,
+          "width": 126.74,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "Representative public search and website observations, August 2026. Exact results vary by user, device and location.",
+          "x": 561,
+          "y": 34,
+          "size": 5.8,
+          "width": 301.77,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 13,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "Vibes Mortgage & Finance · SEO Growth Proposal · 09",
+          "x": 754.68,
+          "y": 13,
+          "size": 6.5,
+          "width": 159.32,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#F8F8FB"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 28,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 120,
+          "w": 200,
+          "h": 300,
+          "radius": 9.13,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 120,
+          "w": 200,
+          "h": 300,
+          "radius": 9.13,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "rect",
+          "x": 46,
+          "y": 412,
+          "w": 200,
+          "h": 8,
+          "radius": 0,
+          "fill": "#8734EF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 65.8,
+          "y": 330.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8734EF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 65.8,
+          "y": 304.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8734EF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 65.8,
+          "y": 290.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8734EF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 65.8,
+          "y": 276.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8734EF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 266,
+          "y": 120,
+          "w": 200,
+          "h": 300,
+          "radius": 9.13,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 266,
+          "y": 120,
+          "w": 200,
+          "h": 300,
+          "radius": 9.13,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "rect",
+          "x": 266,
+          "y": 412,
+          "w": 200,
+          "h": 8,
+          "radius": 0,
+          "fill": "#08CDB2"
+        },
+        {
+          "kind": "roundRect",
+          "x": 285.8,
+          "y": 330.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#08CDB2"
+        },
+        {
+          "kind": "roundRect",
+          "x": 285.8,
+          "y": 316.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#08CDB2"
+        },
+        {
+          "kind": "roundRect",
+          "x": 285.8,
+          "y": 302.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#08CDB2"
+        },
+        {
+          "kind": "roundRect",
+          "x": 285.8,
+          "y": 288.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#08CDB2"
+        },
+        {
+          "kind": "roundRect",
+          "x": 486,
+          "y": 120,
+          "w": 200,
+          "h": 300,
+          "radius": 9.13,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 486,
+          "y": 120,
+          "w": 200,
+          "h": 300,
+          "radius": 9.13,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "rect",
+          "x": 486,
+          "y": 412,
+          "w": 200,
+          "h": 8,
+          "radius": 0,
+          "fill": "#8734EF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 505.8,
+          "y": 330.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8734EF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 505.8,
+          "y": 316.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8734EF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 505.8,
+          "y": 302.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8734EF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 505.8,
+          "y": 288.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8734EF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 706,
+          "y": 120,
+          "w": 200,
+          "h": 300,
+          "radius": 9.13,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 706,
+          "y": 120,
+          "w": 200,
+          "h": 300,
+          "radius": 9.13,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "rect",
+          "x": 706,
+          "y": 412,
+          "w": 200,
+          "h": 8,
+          "radius": 0,
+          "fill": "#08CDB2"
+        },
+        {
+          "kind": "roundRect",
+          "x": 725.8,
+          "y": 330.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#08CDB2"
+        },
+        {
+          "kind": "roundRect",
+          "x": 725.8,
+          "y": 304.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#08CDB2"
+        },
+        {
+          "kind": "roundRect",
+          "x": 725.8,
+          "y": 290.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#08CDB2"
+        },
+        {
+          "kind": "roundRect",
+          "x": 725.8,
+          "y": 276.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#08CDB2"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 28,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#DCDDE7"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8734EF",
+          "text": "05 · SEO STRATEGY",
+          "x": 46,
+          "y": 494,
+          "size": 8,
+          "width": 78.68,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "SEO & Local Search Management",
+          "x": 46,
+          "y": 447,
+          "size": 31,
+          "width": 496.15,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Technical cleanup",
+          "x": 64,
+          "y": 370,
+          "size": 13,
+          "width": 112.7,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "On-page SEO",
+          "x": 284,
+          "y": 370,
+          "size": 13,
+          "width": 83.79,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Local SEO",
+          "x": 504,
+          "y": 370,
+          "size": 13,
+          "width": 65.02,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "Content growth",
+          "x": 724,
+          "y": 370,
+          "size": 13,
+          "width": 96.03,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Indexation, sitemap and robots",
+          "x": 82,
+          "y": 337,
+          "size": 8.7,
+          "width": 118.98,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Titles and meta descriptions",
+          "x": 302,
+          "y": 337,
+          "size": 8.7,
+          "width": 108.32,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Google Business Profile optimisation",
+          "x": 522,
+          "y": 337,
+          "size": 8.7,
+          "width": 141.69,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "First-home-buyer and refinance",
+          "x": 742,
+          "y": 337,
+          "size": 8.7,
+          "width": 121.37,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "review",
+          "x": 82,
+          "y": 325,
+          "size": 8.7,
+          "width": 25.14,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "pages",
+          "x": 742,
+          "y": 325,
+          "size": 8.7,
+          "width": 23.7,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Unique H1/H2 structure",
+          "x": 302,
+          "y": 323,
+          "size": 8.7,
+          "width": 90.91,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "NAP and citation consistency",
+          "x": 522,
+          "y": 323,
+          "size": 8.7,
+          "width": 112.68,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Canonical and redirect checks",
+          "x": 82,
+          "y": 311,
+          "size": 8.7,
+          "width": 116.55,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Local service page development",
+          "x": 742,
+          "y": 311,
+          "size": 8.7,
+          "width": 124.78,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Keyword-aligned copy updates",
+          "x": 302,
+          "y": 309,
+          "size": 8.7,
+          "width": 118.98,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Ingleburn/service-area strategy",
+          "x": 522,
+          "y": 309,
+          "size": 8.7,
+          "width": 119.93,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "URL and permalink cleanup",
+          "x": 82,
+          "y": 297,
+          "size": 8.7,
+          "width": 107.36,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "FAQ and proof expansion",
+          "x": 742,
+          "y": 297,
+          "size": 8.7,
+          "width": 99.15,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Priority service-page optimisation",
+          "x": 302,
+          "y": 295,
+          "size": 8.7,
+          "width": 128.13,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Review and trust-signal",
+          "x": 522,
+          "y": 295,
+          "size": 8.7,
+          "width": 90.42,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Schema and internal-link",
+          "x": 82,
+          "y": 283,
+          "size": 8.7,
+          "width": 95.75,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "improvements",
+          "x": 522,
+          "y": 283,
+          "size": 8.7,
+          "width": 54.63,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "Conversion-focused CTAs",
+          "x": 742,
+          "y": 283,
+          "size": 8.7,
+          "width": 101.54,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "improvements",
+          "x": 82,
+          "y": 271,
+          "size": 8.7,
+          "width": 54.63,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 13,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "Vibes Mortgage & Finance · SEO Growth Proposal · 10",
+          "x": 754.68,
+          "y": 13,
+          "size": 6.5,
+          "width": 159.32,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#211B56"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 108,
+          "w": 550,
+          "h": 250,
+          "radius": 11.24,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "rule",
+          "x": 70,
+          "y": 264,
+          "w": 496,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#DCDDE7"
+        },
+        {
+          "kind": "roundRect",
+          "x": 620,
+          "y": 127.4,
+          "w": 286,
+          "h": 210.46,
+          "radius": 11.24,
+          "fill": "#31296D"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 620,
+          "y": 127.4,
+          "w": 286,
+          "h": 210.46,
+          "radius": 11.24,
+          "stroke": "#51468F"
+        },
+        {
+          "kind": "roundRect",
+          "x": 645.8,
+          "y": 271.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#08CDB2"
+        },
+        {
+          "kind": "roundRect",
+          "x": 645.8,
+          "y": 241.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#08CDB2"
+        },
+        {
+          "kind": "roundRect",
+          "x": 645.8,
+          "y": 211.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#08CDB2"
+        },
+        {
+          "kind": "roundRect",
+          "x": 645.8,
+          "y": 181.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#08CDB2"
+        },
+        {
+          "kind": "roundRect",
+          "x": 645.8,
+          "y": 151.8,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#08CDB2"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 28,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#8882AE"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#08CDB2",
+          "text": "06 · INVESTMENT",
+          "x": 46,
+          "y": 494,
+          "size": 8,
+          "width": 67.57,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "SEO & Local Search package",
+          "x": 46,
+          "y": 447,
+          "size": 31,
+          "width": 430.75,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#D8D6E7",
+          "text": "Ongoing SEO management focused on stronger organic visibility, local relevance and qualified website enquiries.",
+          "x": 46,
+          "y": 418,
+          "size": 12.2,
+          "width": 611.7,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "RECOMMENDED",
+          "x": 70,
+          "y": 327,
+          "size": 8,
+          "width": 64.45,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#08CDB2",
+          "text": "$750 / MONTH INCLUDES",
+          "x": 644,
+          "y": 306,
+          "size": 11,
+          "width": 133.25,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "SEO & Local Search Management",
+          "x": 70,
+          "y": 286,
+          "size": 15,
+          "width": 240.07,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#222132",
+          "text": "$750",
+          "x": 538,
+          "y": 286,
+          "size": 15,
+          "width": 33.37,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "Technical and on-page optimisation",
+          "x": 662,
+          "y": 272,
+          "size": 8.8,
+          "width": 138.93,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#08CDB2",
+          "text": "Local SEO and Google Business Profile",
+          "x": 662,
+          "y": 242,
+          "size": 8.8,
+          "width": 155.56,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#211B56",
+          "text": "TOTAL PER MONTH",
+          "x": 70,
+          "y": 212,
+          "size": 18,
+          "width": 172.99,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#08CDB2",
+          "text": "Priority service and location pages",
+          "x": 662,
+          "y": 212,
+          "size": 8.8,
+          "width": 134.02,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8734EF",
+          "text": "$750",
+          "x": 490,
+          "y": 206,
+          "size": 28,
+          "width": 62.29,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8E91A5",
+          "text": "incl. GST",
+          "x": 520,
+          "y": 184,
+          "size": 7.5,
+          "width": 30.84,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#08CDB2",
+          "text": "Search Console and analytics reporting",
+          "x": 662,
+          "y": 182,
+          "size": 8.8,
+          "width": 153.6,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#08CDB2",
+          "text": "Monthly strategy and optimisation",
+          "x": 662,
+          "y": 152,
+          "size": 8.8,
+          "width": 131.09,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#53566C",
+          "text": "This investment covers the SEO management and implementation scope outlined in this proposal.",
+          "x": 70,
+          "y": 145,
+          "size": 9.2,
+          "width": 399.39,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#AAA6C3",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 13,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#AAA6C3",
+          "text": "Vibes Mortgage & Finance · SEO Growth Proposal · 11",
+          "x": 754.68,
+          "y": 13,
+          "size": 6.5,
+          "width": 159.32,
+          "fontId": "g_d0_f4",
+          "font": "sans-serif"
+        }
+      ]
+    }
+  ]
+}

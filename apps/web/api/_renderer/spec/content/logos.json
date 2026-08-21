@@ -1,0 +1,64 @@
+{
+  "$comment": "Logo frames on the cover. Images are fitted inside a frame preserving aspect ratio; a frame is never resized by its contents, so the layout cannot shift. `panel` names a white backing shape that exists in the golden deck for this frame - it is hidden when the frame has been moved away from it, or when no logo is supplied, so an empty or orphaned white box never prints.",
+  "seo-only": {
+    "clientLogo": {
+      "x": 48,
+      "y": 372,
+      "w": 320,
+      "h": 120,
+      "padding": 0,
+      "added": true,
+      "note": "Upper left, aligned to the title's left edge (x=48). No native panel on this cover; region verified empty - cover text tops out at y=343.",
+      "align": "left",
+      "valign": "bottom"
+    },
+    "presenterLogo": {
+      "x": 703,
+      "y": 62,
+      "w": 191,
+      "h": 176,
+      "padding": 18,
+      "panel": {
+        "x": 703,
+        "y": 62,
+        "w": 191,
+        "h": 176
+      },
+      "note": "White panel, lower right of cover.",
+      "align": "center"
+    }
+  },
+  "seo-ads": {
+    "clientLogo": {
+      "x": 48,
+      "y": 372,
+      "w": 320,
+      "h": 120,
+      "padding": 0,
+      "panel": {
+        "x": 36,
+        "y": 440,
+        "w": 226,
+        "h": 64
+      },
+      "note": "Upper left, aligned to the title's left edge (x=48). The deck's own 226x64 panel is misaligned with the text column and too small, so the frame is enlarged and that panel suppressed.",
+      "align": "left",
+      "valign": "bottom"
+    },
+    "presenterLogo": {
+      "x": 704,
+      "y": 62,
+      "w": 190,
+      "h": 175,
+      "padding": 18,
+      "panel": {
+        "x": 704,
+        "y": 62,
+        "w": 190,
+        "h": 175
+      },
+      "note": "White panel, lower right of cover.",
+      "align": "center"
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "$comment": "Semantic colour roles for the proposal decks. Recolouring works by mapping every literal colour found in the golden PDFs back to a role, then re-emitting the role's value from the active theme. `aliases` therefore lists the observed hexes from BOTH decks - they use slightly different values for the same role, because the two templates were built at different times.",
+  "roles": {
+    "brandDeep": {
+      "description": "Full-bleed dark background on the cover and investment pages.",
+      "default": "#211B56",
+      "aliases": ["#211B56", "#1D174F"]
+    },
+    "brandDeepAlt": {
+      "description": "Deeper tone used for the layered cover circles.",
+      "default": "#34247A",
+      "aliases": ["#34247A", "#2C2368"]
+    },
+    "primary": {
+      "description": "Primary accent. Eyebrows, numerals, key figures, cover circle.",
+      "default": "#8734EF",
+      "aliases": ["#8734EF", "#8A35E8"]
+    },
+    "primaryLight": {
+      "description": "Lighter primary for the cover wordmark and circle highlights.",
+      "default": "#A85CF5",
+      "aliases": ["#A85CF5", "#AA63F5", "#B36BFF"]
+    },
+    "primaryTint": {
+      "description": "Pale primary wash behind highlighted cards.",
+      "default": "#F0E8FF",
+      "aliases": ["#F0E8FF", "#F2ECFF"]
+    },
+    "secondary": {
+      "description": "Secondary accent. Icons, rules, bullet dots, INCLUDES headings.",
+      "default": "#08CDB2",
+      "aliases": ["#08CDB2", "#00D8B5"]
+    },
+    "secondaryTint": {
+      "description": "Pale secondary wash behind supporting cards.",
+      "default": "#E1F9F5",
+      "aliases": ["#E1F9F5", "#E8FCF8"]
+    },
+    "ink": {
+      "description": "Headings and emphasised text on light backgrounds.",
+      "default": "#222132",
+      "aliases": ["#222132", "#1F2032"]
+    },
+    "body": {
+      "description": "Default body copy on light backgrounds.",
+      "default": "#53566C",
+      "aliases": ["#53566C", "#54566A"]
+    },
+    "muted": {
+      "description": "Captions, footnotes and source lines on light backgrounds.",
+      "default": "#8E91A5",
+      "aliases": ["#8E91A5", "#85879A"]
+    },
+    "onDarkBody": {
+      "description": "Body copy sitting on brandDeep.",
+      "default": "#D8D6E7",
+      "aliases": ["#D8D6E7", "#D9D7EA"]
+    },
+    "onDarkMuted": {
+      "description": "Captions sitting on brandDeep.",
+      "default": "#C9C8D9",
+      "aliases": ["#C9C8D9", "#C9C6E1"]
+    },
+    "onDarkFaint": {
+      "description": "Page footers sitting on brandDeep - a step quieter than onDarkMuted. Kept separate because collapsing the two loses a real distinction in the original decks.",
+      "default": "#AAA6C3",
+      "aliases": ["#AAA6C3", "#A1A2B0"]
+    },
+    "onDarkRule": {
+      "description": "Footer hairline on brandDeep pages.",
+      "default": "#8882AE",
+      "aliases": ["#8882AE"]
+    },
+    "surface": {
+      "description": "Card and panel backgrounds.",
+      "default": "#FFFFFF",
+      "aliases": ["#FFFFFF"]
+    },
+    "surfaceOnDark": {
+      "description": "Raised panel sitting on brandDeep - the INCLUDES box on the investment page.",
+      "default": "#31296D",
+      "aliases": ["#31296D", "#2A235F"]
+    },
+    "surfaceOnDarkBorder": {
+      "description": "Outline around surfaceOnDark panels.",
+      "default": "#51468F",
+      "aliases": ["#51468F", "#403681"]
+    },
+    "dangerTint": {
+      "description": "Pale wash behind challenge/problem blocks.",
+      "default": "#FCEBEC",
+      "aliases": ["#FCEBEC", "#FCEEEE"]
+    },
+    "pageBg": {
+      "description": "Standard light page background.",
+      "default": "#F8F8FB",
+      "aliases": ["#F8F8FB", "#FAFAFD"]
+    },
+    "hairline": {
+      "description": "Dividers, card outlines and footer rules.",
+      "default": "#DCDDE7",
+      "aliases": ["#DCDDE7", "#E2E3EC"]
+    },
+    "success": {
+      "description": "Positive status marks (What's already working ticks).",
+      "default": "#2AA149",
+      "aliases": ["#2AA149", "#2C9A43"]
+    },
+    "successTint": {
+      "description": "Pale wash behind positive status blocks.",
+      "default": "#E6F6EA",
+      "aliases": ["#E6F6EA", "#EAF7EF"]
+    },
+    "danger": {
+      "description": "Problem/challenge marks in the audit findings.",
+      "default": "#E65353",
+      "aliases": ["#E65353", "#D9534F"]
+    },
+    "warning": {
+      "description": "Caution marks where a finding needs confirmation.",
+      "default": "#E5A40A",
+      "aliases": ["#E5A40A", "#D79B18"]
+    }
+  }
+}

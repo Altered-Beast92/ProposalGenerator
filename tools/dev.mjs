@@ -114,6 +114,11 @@ const tasks = {
     // The content schema is derived from the geometry, so it is always rebuilt
     // alongside it - a stale slot file would budget copy against old frames.
     run(process.execPath, [path.join(ROOT, 'tools', 'extract', 'build-slots.mjs'), ...TEMPLATES]);
+
+    // The serverless bundle carries committed copies of the spec and the
+    // renderer modules. Restaging them here means they cannot silently drift
+    // from the originals; `git status` after this shows what needs committing.
+    run(process.execPath, [path.join(ROOT, 'apps', 'web', 'scripts', 'sync-spec.mjs')]);
   },
 
   render(args) {

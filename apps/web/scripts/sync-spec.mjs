@@ -14,8 +14,16 @@ import { fileURLToPath } from 'node:url';
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 const APP = path.resolve(HERE, '..');
-const SOURCE = path.resolve(APP, '..', '..', 'packages', 'spec');
+const REPO = path.resolve(APP, '..', '..');
+const SOURCE = path.join(REPO, 'packages', 'spec');
 const DEST = path.join(APP, 'spec');
+
+// The Python function's bundle. A serverless bundle can only see files inside
+// its own directory, so the renderer modules and the spec it reads are staged
+// here and committed - unlike apps/web/spec, which only the bundler needs.
+const RENDERER_SOURCE = path.join(REPO, 'services', 'renderer');
+const RENDERER_DEST = path.join(APP, 'api', '_renderer');
+const RENDERER_MODULES = ['palette.py', 'replay.py'];
 
 const WANTED = [
   'palette.json',
@@ -23,6 +31,12 @@ const WANTED = [
   path.join('content', 'logos.json'),
   path.join('content', 'seo-only.slots.json'),
   path.join('content', 'seo-ads.slots.json'),
+];
+
+// The function additionally needs the geometry, which the JS side never reads.
+const RENDERER_SPEC = [...WANTED,
+  path.join('layouts', 'seo-only.geometry.json'),
+  path.join('layouts', 'seo-ads.geometry.json'),
 ];
 
 if (!fs.existsSync(SOURCE)) {
@@ -49,4 +63,33 @@ for (const rel of WANTED) {
   copied++;
 }
 
-console.log(`sync-spec: copied ${copied} file(s) into apps/web/spec`);
+// --- the Python function's bundle -----------------------------------------
+let staged = 0;
+for (const name of RENDERER_MODULES) {
+  const from = path.join(RENDERER_SOURCE, name);
+  if (!fs.existsSync(from)) {
+    console.error(`sync-spec: missing renderer module ${name}`);
+    process.exit(1);
+  }
+  fs.mkdirSync(RENDERER_DEST, { recursive: true });
+  fs.copyFileSync(from, path.join(RENDERER_DEST, name));
+  staged++;
+}
+
+for (const rel of RENDERER_SPEC) {
+  const from = path.join(SOURCE, rel);
+  const to = path.join(RENDERER_DEST, 'spec', rel);
+  if (!fs.existsSync(from)) {
+    console.error(`sync-spec: missing required file ${rel} - run \`npm run extract\` first.`);
+    process.exit(1);
+  }
+  fs.mkdirSync(path.dirname(to), { recursive: true });
+  fs.copyFileSync(from, to);
+  staged++;
+}
+
+console.log(
+  `sync-spec: copied ${copied} file(s) into apps/web/spec, ` +
+    `staged ${staged} file(s) into apps/web/api/_renderer`,
+);
+

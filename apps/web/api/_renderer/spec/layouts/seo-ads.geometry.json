@@ -1,0 +1,6859 @@
+{
+  "source": "seo-ads.pdf",
+  "extractedAt": "2026-08-21T05:28:31.111Z",
+  "pageCount": 18,
+  "fonts": {
+    "g_d0_f3": "Helvetica-Bold",
+    "g_d0_f1": "Helvetica",
+    "g_d0_f6": "ZapfDingbats"
+  },
+  "palette": {
+    "#54566A": 157,
+    "#1F2032": 98,
+    "#E2E3EC": 89,
+    "#8A35E8": 78,
+    "#FFFFFF": 75,
+    "#00D8B5": 42,
+    "#85879A": 35,
+    "#F2ECFF": 30,
+    "#1D174F": 15,
+    "#FAFAFD": 15,
+    "#E8FCF8": 15,
+    "#2C9A43": 10,
+    "#D9D7EA": 9,
+    "#D9534F": 7,
+    "#A1A2B0": 4,
+    "#EAF7EF": 3,
+    "#D79B18": 3,
+    "#B36BFF": 2,
+    "#C9C6E1": 2,
+    "#FCEEEE": 2,
+    "#2C2368": 1,
+    "#2A235F": 1,
+    "#403681": 1
+  },
+  "pages": [
+    {
+      "page": 1,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#1D174F"
+        },
+        {
+          "kind": "roundRect",
+          "x": 580,
+          "y": 260,
+          "w": 420,
+          "h": 420,
+          "radius": 210,
+          "fill": "#2C2368"
+        },
+        {
+          "kind": "roundRect",
+          "x": 600,
+          "y": 240,
+          "w": 380,
+          "h": 380,
+          "radius": 190,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 620,
+          "y": 220,
+          "w": 340,
+          "h": 340,
+          "radius": 170,
+          "fill": "#B36BFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": -143,
+          "y": -143,
+          "w": 250,
+          "h": 250,
+          "radius": 112.22,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 36,
+          "y": 440,
+          "w": 226,
+          "h": 64,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 704,
+          "y": 62,
+          "w": 190,
+          "h": 175,
+          "radius": 14.37,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "rect",
+          "x": 48,
+          "y": 214,
+          "w": 58,
+          "h": 5,
+          "radius": 0,
+          "fill": "#00D8B5"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#FFFFFF",
+          "text": "SEARCH GROWTH",
+          "x": 48,
+          "y": 300,
+          "size": 42,
+          "width": 380.31,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#B36BFF",
+          "text": "PROPOSAL",
+          "x": 48,
+          "y": 252,
+          "size": 42,
+          "width": 235.7,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "SEO + Google Ads Strategy",
+          "x": 48,
+          "y": 178,
+          "size": 15,
+          "width": 187.18,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "Prepared for Nova Care Australia",
+          "x": 48,
+          "y": 150,
+          "size": 15,
+          "width": 235.91,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#C9C6E1",
+          "text": "Southern Sydney search visibility and lead generation",
+          "x": 48,
+          "y": 120,
+          "size": 10,
+          "width": 237.89,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#C9C6E1",
+          "text": "Presented by WPPRO · August 2026",
+          "x": 48,
+          "y": 98,
+          "size": 10,
+          "width": 163.97,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#FAFAFD"
+        },
+        {
+          "kind": "rule",
+          "x": 60,
+          "y": 337,
+          "w": 380,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 500,
+          "y": 337,
+          "w": 380,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 60,
+          "y": 265,
+          "w": 380,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 500,
+          "y": 265,
+          "w": 380,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 60,
+          "y": 193,
+          "w": 380,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 500,
+          "y": 193,
+          "w": 380,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 60,
+          "y": 121,
+          "w": 380,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 500,
+          "y": 121,
+          "w": 380,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 27,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8A35E8",
+          "text": "WHAT'S INSIDE",
+          "x": 46,
+          "y": 493,
+          "size": 8,
+          "width": 60.13,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Proposal Overview",
+          "x": 46,
+          "y": 446,
+          "size": 30,
+          "width": 270.12,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "A concise plan to improve local visibility, capture high-intent searches and turn more website visits into enquiries.",
+          "x": 46,
+          "y": 419.8,
+          "size": 11,
+          "width": 548.37,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Executive Summary",
+          "x": 118,
+          "y": 356,
+          "size": 12,
+          "width": 114.05,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Current Search Position",
+          "x": 558,
+          "y": 356,
+          "size": 12,
+          "width": 137.36,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "01",
+          "x": 60,
+          "y": 352,
+          "size": 21,
+          "width": 23.35,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "02",
+          "x": 500,
+          "y": 352,
+          "size": 21,
+          "width": 23.35,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "SEO Audit Findings",
+          "x": 118,
+          "y": 284,
+          "size": 12,
+          "width": 112.68,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Local Search Opportunity",
+          "x": 558,
+          "y": 284,
+          "size": 12,
+          "width": 146.7,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "03",
+          "x": 60,
+          "y": 280,
+          "size": 21,
+          "width": 23.35,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "04",
+          "x": 500,
+          "y": 280,
+          "size": 21,
+          "width": 23.35,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Keyword & Service Strategy",
+          "x": 118,
+          "y": 212,
+          "size": 12,
+          "width": 160.06,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Google Ads Strategy",
+          "x": 558,
+          "y": 212,
+          "size": 12,
+          "width": 118.69,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "05",
+          "x": 60,
+          "y": 208,
+          "size": 21,
+          "width": 23.35,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "06",
+          "x": 500,
+          "y": 208,
+          "size": 21,
+          "width": 23.35,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Roadmap",
+          "x": 118,
+          "y": 140,
+          "size": 12,
+          "width": 54.67,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Investment & Next Steps",
+          "x": 558,
+          "y": 140,
+          "size": 12,
+          "width": 140.7,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "07",
+          "x": 60,
+          "y": 136,
+          "size": 21,
+          "width": 23.35,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "08",
+          "x": 500,
+          "y": 136,
+          "size": 21,
+          "width": 23.35,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 14,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "Nova Care Australia · Search Growth Proposal · 02",
+          "x": 766.97,
+          "y": 14,
+          "size": 6.5,
+          "width": 147.03,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#FAFAFD"
+        },
+        {
+          "kind": "roundRect",
+          "x": 625,
+          "y": 365,
+          "w": 280,
+          "h": 72,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 625,
+          "y": 365,
+          "w": 280,
+          "h": 72,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 625,
+          "y": 273,
+          "w": 280,
+          "h": 72,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 625,
+          "y": 273,
+          "w": 280,
+          "h": 72,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 625,
+          "y": 181,
+          "w": 280,
+          "h": 72,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 625,
+          "y": 181,
+          "w": 280,
+          "h": 72,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 27,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8A35E8",
+          "text": "01 · EXECUTIVE SUMMARY",
+          "x": 46,
+          "y": 493,
+          "size": 8,
+          "width": 104.46,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "A strong service offering,",
+          "x": 46,
+          "y": 446,
+          "size": 31,
+          "width": 375.53,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "service themes visible on site",
+          "x": 707,
+          "y": 411,
+          "size": 10,
+          "width": 130.04,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "but local search is under-developed",
+          "x": 46,
+          "y": 408,
+          "size": 31,
+          "width": 528.89,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "7",
+          "x": 643,
+          "y": 393,
+          "size": 24,
+          "width": 13.34,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Nova Care Australia already has the key ingredients to grow online: an established website,",
+          "x": 46,
+          "y": 371,
+          "size": 13,
+          "width": 526.73,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "multiple NDIS service lines, a referral form and current NDIS registration. The opportunity is",
+          "x": 46,
+          "y": 353,
+          "size": 13,
+          "width": 525.94,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "to make those assets easier to discover for people actively searching across Southern",
+          "x": 46,
+          "y": 335,
+          "size": 13,
+          "width": 494.94,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "website established",
+          "x": 707,
+          "y": 319,
+          "size": 10,
+          "width": 87.26,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Sydney.",
+          "x": 46,
+          "y": 317,
+          "size": 13,
+          "width": 46.97,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "2021",
+          "x": 643,
+          "y": 301,
+          "size": 24,
+          "width": 53.38,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "NDIS registration in force*",
+          "x": 707,
+          "y": 227,
+          "size": 10,
+          "width": 115.59,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "2028",
+          "x": 643,
+          "y": 209,
+          "size": 24,
+          "width": 53.38,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 14,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#A1A2B0",
+          "text": "* Public NDIS Commission record reviewed August 2026.",
+          "x": 406.35,
+          "y": 14,
+          "size": 5.8,
+          "width": 147.3,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "Nova Care Australia · Search Growth Proposal · 03",
+          "x": 766.97,
+          "y": 14,
+          "size": 6.5,
+          "width": 147.03,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#FAFAFD"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 112,
+          "w": 270,
+          "h": 300,
+          "radius": 9.83,
+          "fill": "#FCEEEE"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 112,
+          "w": 270,
+          "h": 300,
+          "radius": 9.83,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 62,
+          "y": 351,
+          "w": 36,
+          "h": 36,
+          "radius": 14.37,
+          "fill": "#D9534F"
+        },
+        {
+          "kind": "roundRect",
+          "x": 75.8,
+          "y": 296.05,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#D9534F"
+        },
+        {
+          "kind": "roundRect",
+          "x": 75.8,
+          "y": 262.05,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#D9534F"
+        },
+        {
+          "kind": "roundRect",
+          "x": 75.8,
+          "y": 228.05,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#D9534F"
+        },
+        {
+          "kind": "roundRect",
+          "x": 340,
+          "y": 112,
+          "w": 270,
+          "h": 300,
+          "radius": 9.83,
+          "fill": "#EAF7EF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 340,
+          "y": 112,
+          "w": 270,
+          "h": 300,
+          "radius": 9.83,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 356,
+          "y": 351,
+          "w": 36,
+          "h": 36,
+          "radius": 14.37,
+          "fill": "#2C9A43"
+        },
+        {
+          "kind": "roundRect",
+          "x": 369.8,
+          "y": 291.68,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#2C9A43"
+        },
+        {
+          "kind": "roundRect",
+          "x": 369.8,
+          "y": 249.55,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#2C9A43"
+        },
+        {
+          "kind": "roundRect",
+          "x": 369.8,
+          "y": 215.55,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#2C9A43"
+        },
+        {
+          "kind": "roundRect",
+          "x": 634,
+          "y": 112,
+          "w": 270,
+          "h": 300,
+          "radius": 9.83,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 634,
+          "y": 112,
+          "w": 270,
+          "h": 300,
+          "radius": 9.83,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 650,
+          "y": 351,
+          "w": 36,
+          "h": 36,
+          "radius": 14.37,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 663.8,
+          "y": 297.93,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 663.8,
+          "y": 274.55,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 663.8,
+          "y": 240.55,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 27,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8A35E8",
+          "text": "01 · EXECUTIVE SUMMARY",
+          "x": 46,
+          "y": 493,
+          "size": 8,
+          "width": 104.46,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "The challenge, opportunity & plan",
+          "x": 46,
+          "y": 446,
+          "size": 31,
+          "width": 499.53,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "!",
+          "x": 77.34,
+          "y": 363,
+          "size": 16,
+          "width": 5.33,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "The Challenge",
+          "x": 108,
+          "y": 363,
+          "size": 16,
+          "width": 109.36,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "3",
+          "x": 367.96,
+          "y": 363,
+          "size": 16,
+          "width": 12.08,
+          "fontId": "g_d0_f6",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "The Opportunity",
+          "x": 402,
+          "y": 363,
+          "size": 16,
+          "width": 124.45,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "3",
+          "x": 661.96,
+          "y": 363,
+          "size": 16,
+          "width": 12.08,
+          "fontId": "g_d0_f6",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "The Strategy",
+          "x": 696,
+          "y": 363,
+          "size": 16,
+          "width": 96.91,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Current search presentation is largely brand-led",
+          "x": 90,
+          "y": 297.9,
+          "size": 9.1,
+          "width": 192.18,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "High-intent local searches exist for SIL, support",
+          "x": 384,
+          "y": 297.9,
+          "size": 9.1,
+          "width": 190.67,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Fix technical and on-page foundations first.",
+          "x": 678,
+          "y": 297.9,
+          "size": 9.1,
+          "width": 173.49,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "rather than location + service-led.",
+          "x": 90,
+          "y": 285.4,
+          "size": 9.1,
+          "width": 134.79,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "coordination and NDIS providers in the",
+          "x": 384,
+          "y": 285.4,
+          "size": 9.1,
+          "width": 156.28,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Build local relevance around genuine service",
+          "x": 678,
+          "y": 276.4,
+          "size": 9.1,
+          "width": 180.56,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Sutherland/Southern Sydney market.",
+          "x": 384,
+          "y": 272.9,
+          "size": 9.1,
+          "width": 149.21,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Important service pages show title, URL and",
+          "x": 90,
+          "y": 263.9,
+          "size": 9.1,
+          "width": 178.53,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "areas and priority services.",
+          "x": 678,
+          "y": 263.9,
+          "size": 9.1,
+          "width": 108.73,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "heading inconsistencies.",
+          "x": 90,
+          "y": 251.4,
+          "size": 9.1,
+          "width": 99.14,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Nova has a broad registered service offering that",
+          "x": 384,
+          "y": 251.4,
+          "size": 9.1,
+          "width": 196,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Use Google Ads for immediate demand while",
+          "x": 678,
+          "y": 242.4,
+          "size": 9.1,
+          "width": 182.57,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "can support multiple search entry points.",
+          "x": 384,
+          "y": 238.9,
+          "size": 9.1,
+          "width": 163.36,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Business contact/location details appear",
+          "x": 90,
+          "y": 229.9,
+          "size": 9.1,
+          "width": 162.36,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "SEO compounds over time.",
+          "x": 678,
+          "y": 229.9,
+          "size": 9.1,
+          "width": 111.27,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "inconsistent across public sources.",
+          "x": 90,
+          "y": 217.4,
+          "size": 9.1,
+          "width": 140.6,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Existing referral and enquiry forms provide a",
+          "x": 384,
+          "y": 217.4,
+          "size": 9.1,
+          "width": 178.52,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "solid conversion base.",
+          "x": 384,
+          "y": 204.9,
+          "size": 9.1,
+          "width": 90.03,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 14,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "Nova Care Australia · Search Growth Proposal · 04",
+          "x": 766.97,
+          "y": 14,
+          "size": 6.5,
+          "width": 147.03,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#FAFAFD"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 353,
+          "w": 420,
+          "h": 88,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 353,
+          "w": 420,
+          "h": 88,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rect",
+          "x": 46,
+          "y": 353,
+          "w": 5,
+          "h": 88,
+          "radius": 0,
+          "fill": "#D9534F"
+        },
+        {
+          "kind": "roundRect",
+          "x": 490,
+          "y": 353,
+          "w": 420,
+          "h": 88,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 490,
+          "y": 353,
+          "w": 420,
+          "h": 88,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rect",
+          "x": 490,
+          "y": 353,
+          "w": 5,
+          "h": 88,
+          "radius": 0,
+          "fill": "#D79B18"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 248,
+          "w": 420,
+          "h": 88,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 248,
+          "w": 420,
+          "h": 88,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rect",
+          "x": 46,
+          "y": 248,
+          "w": 5,
+          "h": 88,
+          "radius": 0,
+          "fill": "#D79B18"
+        },
+        {
+          "kind": "roundRect",
+          "x": 490,
+          "y": 248,
+          "w": 420,
+          "h": 88,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 490,
+          "y": 248,
+          "w": 420,
+          "h": 88,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rect",
+          "x": 490,
+          "y": 248,
+          "w": 5,
+          "h": 88,
+          "radius": 0,
+          "fill": "#D9534F"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 143,
+          "w": 420,
+          "h": 88,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 143,
+          "w": 420,
+          "h": 88,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rect",
+          "x": 46,
+          "y": 143,
+          "w": 5,
+          "h": 88,
+          "radius": 0,
+          "fill": "#D79B18"
+        },
+        {
+          "kind": "roundRect",
+          "x": 490,
+          "y": 143,
+          "w": 420,
+          "h": 88,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 490,
+          "y": 143,
+          "w": 420,
+          "h": 88,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rect",
+          "x": 490,
+          "y": 143,
+          "w": 5,
+          "h": 88,
+          "radius": 0,
+          "fill": "#2C9A43"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 27,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8A35E8",
+          "text": "02 · CURRENT SEARCH POSITION",
+          "x": 46.89,
+          "y": 505.86,
+          "size": 8,
+          "width": 131.13,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Priority SEO findings",
+          "x": 46.89,
+          "y": 458.86,
+          "size": 31,
+          "width": 311.8,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Homepage metadata",
+          "x": 66,
+          "y": 413,
+          "size": 12,
+          "width": 117.36,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "URL / page mapping",
+          "x": 510,
+          "y": 413,
+          "size": 12,
+          "width": 116.02,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Search result title is currently \"Nova Care Australia - Nova Care Australia\", which does not",
+          "x": 66,
+          "y": 399.2,
+          "size": 8.8,
+          "width": 350.54,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Several service URLs appear mismatched with page titles or H1s - for example",
+          "x": 510,
+          "y": 399.2,
+          "size": 8.8,
+          "width": 307.12,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "describe the core service or target location.",
+          "x": 66,
+          "y": 387.9,
+          "size": 8.8,
+          "width": 168.25,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "/allied-health-professionals/ resolves to Support Coordination, while /aged-care/ presents an",
+          "x": 510,
+          "y": 387.9,
+          "size": 8.8,
+          "width": 358.02,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "aged-care H1 with a SIL-focused search title.",
+          "x": 510,
+          "y": 376.6,
+          "size": 8.8,
+          "width": 175.59,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Local relevance",
+          "x": 66,
+          "y": 308,
+          "size": 12,
+          "width": 90.05,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "NAP consistency",
+          "x": 510,
+          "y": 308,
+          "size": 12,
+          "width": 98.03,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "The visible homepage copy does not strongly target Southern Sydney, St George or Sutherland",
+          "x": 66,
+          "y": 294.2,
+          "size": 8.8,
+          "width": 371.75,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "The homepage shows two different phone-number sequences and the website address differs",
+          "x": 510,
+          "y": 294.2,
+          "size": 8.8,
+          "width": 365.87,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Shire service intent.",
+          "x": 66,
+          "y": 282.9,
+          "size": 8.8,
+          "width": 77.27,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "from the NDIS Commission head-office record. These details should be confirmed and",
+          "x": 510,
+          "y": 282.9,
+          "size": 8.8,
+          "width": 335.99,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "standardised.",
+          "x": 510,
+          "y": 271.6,
+          "size": 8.8,
+          "width": 52.83,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Content depth",
+          "x": 66,
+          "y": 203,
+          "size": 12,
+          "width": 81.32,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Conversion assets",
+          "x": 510,
+          "y": 203,
+          "size": 12,
+          "width": 106.7,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Core service pages explain NDIS concepts, but most are not structured around location-specific",
+          "x": 66,
+          "y": 189.2,
+          "size": 8.8,
+          "width": 372.2,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Phone CTAs, enquiry forms and a detailed referral form are already in place and can be",
+          "x": 510,
+          "y": 189.2,
+          "size": 8.8,
+          "width": 341.4,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "search intent, FAQs, proof points or conversion-focused copy.",
+          "x": 66,
+          "y": 177.9,
+          "size": 8.8,
+          "width": 241.13,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "strengthened rather than rebuilt.",
+          "x": 510,
+          "y": 177.9,
+          "size": 8.8,
+          "width": 125.22,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 14,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#A1A2B0",
+          "text": "Source: public review of novacareaustralia.com.au and NDIS Commission, August 2026.",
+          "x": 366.37,
+          "y": 14,
+          "size": 5.8,
+          "width": 227.26,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "Nova Care Australia · Search Growth Proposal · 05",
+          "x": 766.97,
+          "y": 14,
+          "size": 6.5,
+          "width": 147.03,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#FAFAFD"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 160,
+          "w": 200,
+          "h": 252,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 160,
+          "w": 200,
+          "h": 252,
+          "radius": 9.83,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 66,
+          "y": 350,
+          "w": 44,
+          "h": 44,
+          "radius": 7.02,
+          "fill": "#E8FCF8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 266,
+          "y": 160,
+          "w": 200,
+          "h": 252,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 266,
+          "y": 160,
+          "w": 200,
+          "h": 252,
+          "radius": 9.83,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 286,
+          "y": 350,
+          "w": 44,
+          "h": 44,
+          "radius": 7.02,
+          "fill": "#E8FCF8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 486,
+          "y": 160,
+          "w": 200,
+          "h": 252,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 486,
+          "y": 160,
+          "w": 200,
+          "h": 252,
+          "radius": 9.83,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 506,
+          "y": 350,
+          "w": 44,
+          "h": 44,
+          "radius": 7.02,
+          "fill": "#E8FCF8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 706,
+          "y": 160,
+          "w": 200,
+          "h": 252,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 706,
+          "y": 160,
+          "w": 200,
+          "h": 252,
+          "radius": 9.83,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 726,
+          "y": 350,
+          "w": 44,
+          "h": 44,
+          "radius": 7.02,
+          "fill": "#E8FCF8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 77,
+          "w": 860,
+          "h": 50,
+          "radius": 7.02,
+          "fill": "#EAF7EF"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 27,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8A35E8",
+          "text": "02 · CURRENT SEARCH POSITION",
+          "x": 46,
+          "y": 493,
+          "size": 8,
+          "width": 131.13,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "What's already working",
+          "x": 46,
+          "y": 446,
+          "size": 31,
+          "width": 345.03,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#00D8B5",
+          "text": "3",
+          "x": 80.45,
+          "y": 363,
+          "size": 20,
+          "width": 15.1,
+          "fontId": "g_d0_f6",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#00D8B5",
+          "text": "3",
+          "x": 300.45,
+          "y": 363,
+          "size": 20,
+          "width": 15.1,
+          "fontId": "g_d0_f6",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#00D8B5",
+          "text": "3",
+          "x": 520.45,
+          "y": 363,
+          "size": 20,
+          "width": 15.1,
+          "fontId": "g_d0_f6",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#00D8B5",
+          "text": "3",
+          "x": 740.45,
+          "y": 363,
+          "size": 20,
+          "width": 15.1,
+          "fontId": "g_d0_f6",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Registered provider",
+          "x": 66,
+          "y": 304,
+          "size": 13,
+          "width": 122.81,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Service breadth",
+          "x": 286,
+          "y": 304,
+          "size": 13,
+          "width": 97.54,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Lead capture",
+          "x": 506,
+          "y": 304,
+          "size": 13,
+          "width": 80.91,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Existing domain",
+          "x": 726,
+          "y": 304,
+          "size": 13,
+          "width": 100.41,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Nova Care Australia is listed by the",
+          "x": 66,
+          "y": 286.5,
+          "size": 9.5,
+          "width": 147.83,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Registered groups include SIL,",
+          "x": 286,
+          "y": 286.5,
+          "size": 9.5,
+          "width": 129.89,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "The site already includes phone",
+          "x": 506,
+          "y": 286.5,
+          "size": 9.5,
+          "width": 134.12,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "The website has been live since",
+          "x": 726,
+          "y": 286.5,
+          "size": 9.5,
+          "width": 134.64,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "NDIS Commission as an approved",
+          "x": 66,
+          "y": 273.3,
+          "size": 9.5,
+          "width": 145.71,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "shared living, support coordination,",
+          "x": 286,
+          "y": 273.3,
+          "size": 9.5,
+          "width": 147.32,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "CTAs, enquiry forms and a dedicated",
+          "x": 506,
+          "y": 273.3,
+          "size": 9.5,
+          "width": 156.82,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "2021, giving us an established asset",
+          "x": 726,
+          "y": 273.3,
+          "size": 9.5,
+          "width": 153.14,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "provider, with registration in force until",
+          "x": 66,
+          "y": 260.1,
+          "size": 9.5,
+          "width": 159.97,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "transport, household tasks, personal",
+          "x": 286,
+          "y": 260.1,
+          "size": 9.5,
+          "width": 153.13,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "NDIS referral form.",
+          "x": 506,
+          "y": 260.1,
+          "size": 9.5,
+          "width": 79.7,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "to optimise rather than a brand-new",
+          "x": 726,
+          "y": 260.1,
+          "size": 9.5,
+          "width": 149.96,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "25 August 2028.",
+          "x": 66,
+          "y": 246.9,
+          "size": 9.5,
+          "width": 69.19,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "activities and community participation.",
+          "x": 286,
+          "y": 246.9,
+          "size": 9.5,
+          "width": 159.97,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "domain.",
+          "x": 726,
+          "y": 246.9,
+          "size": 9.5,
+          "width": 33.79,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#2C9A43",
+          "text": "Bottom line:",
+          "x": 66,
+          "y": 108.5,
+          "size": 10.5,
+          "width": 61.25,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#2C9A43",
+          "text": "Nova does not need a complete rebuild to start. The first priority is to clean up search signals, localise the strongest pages and measure enquiries properly.",
+          "x": 130.17,
+          "y": 108.5,
+          "size": 10.5,
+          "width": 720.15,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 14,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "Nova Care Australia · Search Growth Proposal · 06",
+          "x": 766.97,
+          "y": 14,
+          "size": 6.5,
+          "width": 147.03,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#FAFAFD"
+        },
+        {
+          "kind": "roundRect",
+          "x": 625,
+          "y": 153.84,
+          "w": 280,
+          "h": 271.01,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 625,
+          "y": 153.84,
+          "w": 280,
+          "h": 271.01,
+          "radius": 9.83,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 635,
+          "y": 340,
+          "w": 30,
+          "h": 30,
+          "radius": 10.54,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 635,
+          "y": 285,
+          "w": 30,
+          "h": 30,
+          "radius": 10.54,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 635,
+          "y": 230,
+          "w": 30,
+          "h": 30,
+          "radius": 10.54,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 635,
+          "y": 175,
+          "w": 30,
+          "h": 30,
+          "radius": 10.54,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 174,
+          "w": 540,
+          "h": 125,
+          "radius": 8.43,
+          "fill": "#FCEEEE"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 174,
+          "w": 540,
+          "h": 125,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 27,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8A35E8",
+          "text": "03 · LOCAL SEARCH OPPORTUNITY",
+          "x": 46,
+          "y": 493,
+          "size": 8,
+          "width": 139.13,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Southern Sydney is the right search focus",
+          "x": 46,
+          "y": 446,
+          "size": 31,
+          "width": 621.89,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "The website currently lists Sydenham, while the current NDIS Commission head-office record lists",
+          "x": 46,
+          "y": 419.7,
+          "size": 12.3,
+          "width": 531.79,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Sans Souci. Before local SEO begins, WPPRO should confirm the primary customer-facing location",
+          "x": 46,
+          "y": 402.7,
+          "size": 12.3,
+          "width": 540,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "PROPOSED LOCAL STRUCTURE",
+          "x": 650,
+          "y": 392,
+          "size": 10,
+          "width": 158.34,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "and the exact service radius. From there, the campaign can build around Southern Sydney with",
+          "x": 46,
+          "y": 385.7,
+          "size": 12.3,
+          "width": 518.21,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "strong relevance to the Sutherland Shire market.",
+          "x": 46,
+          "y": 368.7,
+          "size": 12.3,
+          "width": 264.57,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Primary location",
+          "x": 677,
+          "y": 356,
+          "size": 9.8,
+          "width": 76.79,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "1",
+          "x": 647.22,
+          "y": 351,
+          "size": 10,
+          "width": 5.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Confirm NAP and Google Business Profile",
+          "x": 677,
+          "y": 343,
+          "size": 8.2,
+          "width": 153.58,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Service-area hub",
+          "x": 677,
+          "y": 301,
+          "size": 9.8,
+          "width": 78.98,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "2",
+          "x": 647.22,
+          "y": 296,
+          "size": 10,
+          "width": 5.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Southern Sydney / St George",
+          "x": 677,
+          "y": 288,
+          "size": 8.2,
+          "width": 107.12,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#D9534F",
+          "text": "Important setup task",
+          "x": 65,
+          "y": 270,
+          "size": 11,
+          "width": 108.18,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Standardise the business name, phone, address and service-area information across the website, Google",
+          "x": 65,
+          "y": 247,
+          "size": 10,
+          "width": 467.44,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Priority expansion",
+          "x": 677,
+          "y": 246,
+          "size": 9.8,
+          "width": 85.5,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "3",
+          "x": 647.22,
+          "y": 241,
+          "size": 10,
+          "width": 5.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Business Profile, NDIS directories and major citations. Local SEO will be much stronger once the core business",
+          "x": 65,
+          "y": 234,
+          "size": 10,
+          "width": 492.96,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Sutherland Shire service pages",
+          "x": 677,
+          "y": 233,
+          "size": 8.2,
+          "width": 113.94,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "data is consistent.",
+          "x": 65,
+          "y": 221,
+          "size": 10,
+          "width": 80.04,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Local proof",
+          "x": 677,
+          "y": 191,
+          "size": 9.8,
+          "width": 53.36,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "4",
+          "x": 647.22,
+          "y": 186,
+          "size": 10,
+          "width": 5.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Reviews, service coverage, FAQs, trust signals",
+          "x": 677,
+          "y": 178,
+          "size": 8.2,
+          "width": 171.34,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 14,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "Nova Care Australia · Search Growth Proposal · 07",
+          "x": 766.97,
+          "y": 14,
+          "size": 6.5,
+          "width": 147.03,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#FAFAFD"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 226.36,
+          "w": 420,
+          "h": 149.22,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 226.36,
+          "w": 420,
+          "h": 149.22,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 64,
+          "y": 312,
+          "w": 362,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 64,
+          "y": 281,
+          "w": 362,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 64,
+          "y": 250,
+          "w": 362,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 490,
+          "y": 229.41,
+          "w": 420,
+          "h": 146.24,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 490,
+          "y": 229.41,
+          "w": 420,
+          "h": 146.24,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 508,
+          "y": 312,
+          "w": 362,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 508,
+          "y": 281,
+          "w": 362,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 508,
+          "y": 250,
+          "w": 362,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 47.22,
+          "y": 64.9,
+          "w": 420,
+          "h": 145.24,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 47.22,
+          "y": 64.9,
+          "w": 420,
+          "h": 145.24,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 63.44,
+          "y": 150.47,
+          "w": 362,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 63.44,
+          "y": 119.47,
+          "w": 362,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 63.44,
+          "y": 88.47,
+          "w": 362,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 491.22,
+          "y": 64.02,
+          "w": 420,
+          "h": 145.67,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 491.22,
+          "y": 64.02,
+          "w": 420,
+          "h": 145.67,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 509.23,
+          "y": 146.04,
+          "w": 362,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 509.23,
+          "y": 115.04,
+          "w": 362,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 509.23,
+          "y": 84.04,
+          "w": 362,
+          "h": 24,
+          "radius": 8.43,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 27,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8A35E8",
+          "text": "04 · KEYWORD & SERVICE STRATEGY",
+          "x": 46,
+          "y": 493,
+          "size": 8,
+          "width": 148.47,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Preliminary keyword direction",
+          "x": 46,
+          "y": 446,
+          "size": 31,
+          "width": 442.77,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "These are strategic themes for the proposal. Final keywords, volumes and priorities should be validated in Google Keyword Planner/Search Console during onboarding.",
+          "x": 46,
+          "y": 422.5,
+          "size": 10.5,
+          "width": 779.09,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "CORE LOCAL",
+          "x": 64,
+          "y": 347,
+          "size": 11,
+          "width": 72.72,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "ACCOMMODATION",
+          "x": 508,
+          "y": 347,
+          "size": 11,
+          "width": 101.43,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "NDIS provider Sutherland",
+          "x": 76,
+          "y": 320,
+          "size": 8.5,
+          "width": 103.44,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "supported independent living Sutherland",
+          "x": 520,
+          "y": 320,
+          "size": 8.5,
+          "width": 165.78,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#F2ECFF",
+          "text": "NDIS provider Southern Sydney",
+          "x": 76,
+          "y": 289,
+          "size": 8.5,
+          "width": 128.94,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#F2ECFF",
+          "text": "SIL provider Sutherland",
+          "x": 520,
+          "y": 289,
+          "size": 8.5,
+          "width": 96.36,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#F2ECFF",
+          "text": "disability support services Sutherland Shire",
+          "x": 76,
+          "y": 258,
+          "size": 8.5,
+          "width": 177.62,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#F2ECFF",
+          "text": "NDIS supported accommodation Sydney",
+          "x": 520,
+          "y": 258,
+          "size": 8.5,
+          "width": 164.36,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "COORDINATION",
+          "x": 63.44,
+          "y": 185.47,
+          "size": 11,
+          "width": 86.16,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "PARTICIPATION & RESPITE",
+          "x": 509.23,
+          "y": 181.04,
+          "size": 11,
+          "width": 146.68,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "support coordination Sutherland",
+          "x": 75.44,
+          "y": 158.47,
+          "size": 8.5,
+          "width": 132.23,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "community access NDIS Sutherland",
+          "x": 521.23,
+          "y": 154.04,
+          "size": 8.5,
+          "width": 145.49,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#F2ECFF",
+          "text": "NDIS support coordinator Southern Sydney",
+          "x": 75.44,
+          "y": 127.47,
+          "size": 8.5,
+          "width": 176.16,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#F2ECFF",
+          "text": "short term accommodation NDIS Sutherland",
+          "x": 521.23,
+          "y": 123.04,
+          "size": 8.5,
+          "width": 179,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#F2ECFF",
+          "text": "support coordination Sydney",
+          "x": 75.44,
+          "y": 96.47,
+          "size": 8.5,
+          "width": 118.07,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#F2ECFF",
+          "text": "respite care NDIS Southern Sydney",
+          "x": 521.23,
+          "y": 92.04,
+          "size": 8.5,
+          "width": 142.66,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 14,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "Nova Care Australia · Search Growth Proposal · 08",
+          "x": 766.97,
+          "y": 14,
+          "size": 6.5,
+          "width": 147.03,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#FAFAFD"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 150,
+          "w": 200,
+          "h": 205,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 150,
+          "w": 200,
+          "h": 205,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 64,
+          "y": 172,
+          "w": 164,
+          "h": 28,
+          "radius": 4.88,
+          "fill": "#E8FCF8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 266,
+          "y": 150,
+          "w": 200,
+          "h": 205,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 266,
+          "y": 150,
+          "w": 200,
+          "h": 205,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 284,
+          "y": 172,
+          "w": 164,
+          "h": 28,
+          "radius": 4.88,
+          "fill": "#E8FCF8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 486,
+          "y": 150,
+          "w": 200,
+          "h": 205,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 486,
+          "y": 150,
+          "w": 200,
+          "h": 205,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 504,
+          "y": 172,
+          "w": 164,
+          "h": 28,
+          "radius": 4.88,
+          "fill": "#E8FCF8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 706,
+          "y": 150,
+          "w": 200,
+          "h": 205,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 706,
+          "y": 150,
+          "w": 200,
+          "h": 205,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 724,
+          "y": 172,
+          "w": 164,
+          "h": 28,
+          "radius": 4.88,
+          "fill": "#E8FCF8"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 27,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8A35E8",
+          "text": "04 · KEYWORD & SERVICE STRATEGY",
+          "x": 46,
+          "y": 493,
+          "size": 8,
+          "width": 148.47,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "The local search field is competitive - but clear",
+          "x": 46,
+          "y": 446,
+          "size": 31,
+          "width": 687.42,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "In sample searches for Sutherland-area NDIS services, Google surfaced providers with dedicated local pages and service-specific content. Nova did not appear among the surfaced",
+          "x": 46,
+          "y": 415,
+          "size": 10.5,
+          "width": 837.45,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "top results in those samples, which suggests a practical visibility gap to work on.",
+          "x": 46,
+          "y": 400.5,
+          "size": 10.5,
+          "width": 372.31,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Sylvanvale",
+          "x": 64,
+          "y": 317,
+          "size": 13,
+          "width": 67.21,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Montessori Care",
+          "x": 284,
+          "y": 317,
+          "size": 13,
+          "width": 101.85,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "United for Care",
+          "x": 504,
+          "y": 317,
+          "size": 13,
+          "width": 93.9,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "MySupport Co.",
+          "x": 724,
+          "y": 317,
+          "size": 13,
+          "width": 92.44,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "SUPPORT COORDINATION",
+          "x": 64,
+          "y": 294,
+          "size": 8.3,
+          "width": 107.44,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "NDIS PROVIDER SUTHERLAND",
+          "x": 284,
+          "y": 294,
+          "size": 8.3,
+          "width": 124.96,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "IN-HOME CARE SUTHERLAND",
+          "x": 504,
+          "y": 294,
+          "size": 8.3,
+          "width": 121.26,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "SUPPORT COORDINATION",
+          "x": 724,
+          "y": 294,
+          "size": 8.3,
+          "width": 107.44,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Strong Sutherland Shire location",
+          "x": 64,
+          "y": 276.1,
+          "size": 8.8,
+          "width": 126.68,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Dedicated location landing page with",
+          "x": 284,
+          "y": 276.1,
+          "size": 8.8,
+          "width": 143.32,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Long-form local content covering",
+          "x": 504,
+          "y": 276.1,
+          "size": 8.8,
+          "width": 127.65,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Sutherland Shire positioning, strong trust",
+          "x": 724,
+          "y": 275.7,
+          "size": 8.8,
+          "width": 158.96,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "relevance and established service pages.",
+          "x": 64,
+          "y": 264.8,
+          "size": 8.8,
+          "width": 161.41,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "nearby suburb targeting.",
+          "x": 284,
+          "y": 264.8,
+          "size": 8.8,
+          "width": 95.38,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "services, FAQs and local landmarks.",
+          "x": 504,
+          "y": 264.8,
+          "size": 8.8,
+          "width": 142.8,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "copy and clear conversion path.",
+          "x": 724,
+          "y": 264.4,
+          "size": 8.8,
+          "width": 124.24,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1D174F",
+          "text": "LOCAL RELEVANCE = ADVANTAGE",
+          "x": 80.02,
+          "y": 182,
+          "size": 7.6,
+          "width": 131.95,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1D174F",
+          "text": "LOCAL RELEVANCE = ADVANTAGE",
+          "x": 300.02,
+          "y": 182,
+          "size": 7.6,
+          "width": 131.95,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1D174F",
+          "text": "LOCAL RELEVANCE = ADVANTAGE",
+          "x": 520.02,
+          "y": 182,
+          "size": 7.6,
+          "width": 131.95,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1D174F",
+          "text": "LOCAL RELEVANCE = ADVANTAGE",
+          "x": 740.02,
+          "y": 182,
+          "size": 7.6,
+          "width": 131.95,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 14,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#A1A2B0",
+          "text": "Sample public search observations, August 2026. Exact rankings vary by user, device and location.",
+          "x": 352.66,
+          "y": 14,
+          "size": 5.8,
+          "width": 254.67,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "Nova Care Australia · Search Growth Proposal · 09",
+          "x": 766.97,
+          "y": 14,
+          "size": 6.5,
+          "width": 147.03,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#FAFAFD"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 120,
+          "w": 200,
+          "h": 305,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 120,
+          "w": 200,
+          "h": 305,
+          "radius": 9.83,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rect",
+          "x": 46,
+          "y": 417,
+          "w": 200,
+          "h": 8,
+          "radius": 0,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 65.8,
+          "y": 332.54,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 65.8,
+          "y": 301.71,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 65.8,
+          "y": 280.91,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 65.8,
+          "y": 258.34,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 266,
+          "y": 120,
+          "w": 200,
+          "h": 305,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 266,
+          "y": 120,
+          "w": 200,
+          "h": 305,
+          "radius": 9.83,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rect",
+          "x": 266,
+          "y": 417,
+          "w": 200,
+          "h": 8,
+          "radius": 0,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 285.8,
+          "y": 334.31,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 285.8,
+          "y": 313.51,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 285.8,
+          "y": 292.71,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 285.8,
+          "y": 271.91,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 486,
+          "y": 120,
+          "w": 200,
+          "h": 305,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 486,
+          "y": 120,
+          "w": 200,
+          "h": 305,
+          "radius": 9.83,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rect",
+          "x": 486,
+          "y": 417,
+          "w": 200,
+          "h": 8,
+          "radius": 0,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 505.8,
+          "y": 334.31,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 505.8,
+          "y": 313.51,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 505.8,
+          "y": 292.71,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 505.8,
+          "y": 270.14,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 706,
+          "y": 120,
+          "w": 200,
+          "h": 305,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 706,
+          "y": 120,
+          "w": 200,
+          "h": 305,
+          "radius": 9.83,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rect",
+          "x": 706,
+          "y": 417,
+          "w": 200,
+          "h": 8,
+          "radius": 0,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 725.8,
+          "y": 334.31,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 725.8,
+          "y": 313.51,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 725.8,
+          "y": 292.71,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 725.8,
+          "y": 271.91,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 27,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8A35E8",
+          "text": "05 · SEO STRATEGY",
+          "x": 46,
+          "y": 493,
+          "size": 8,
+          "width": 78.25,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "SEO & Local Search Management",
+          "x": 46,
+          "y": 446,
+          "size": 31,
+          "width": 496.15,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Technical cleanup",
+          "x": 64,
+          "y": 375,
+          "size": 12.5,
+          "width": 108.38,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "On-page SEO",
+          "x": 284,
+          "y": 375,
+          "size": 12.5,
+          "width": 80.58,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Local SEO",
+          "x": 504,
+          "y": 375,
+          "size": 12.5,
+          "width": 62.53,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Content growth",
+          "x": 724,
+          "y": 375,
+          "size": 12.5,
+          "width": 92.35,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Indexation, sitemap and robots",
+          "x": 80,
+          "y": 334.3,
+          "size": 8.7,
+          "width": 118.96,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Titles and meta descriptions",
+          "x": 300,
+          "y": 334.3,
+          "size": 8.7,
+          "width": 108.31,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Google Business Profile optimisation",
+          "x": 520,
+          "y": 334.3,
+          "size": 8.7,
+          "width": 141.67,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Location/service page creation",
+          "x": 740,
+          "y": 334.3,
+          "size": 8.7,
+          "width": 117.99,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "review",
+          "x": 80,
+          "y": 322.5,
+          "size": 8.7,
+          "width": 25.13,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Unique H1/H2 structure",
+          "x": 300,
+          "y": 313.5,
+          "size": 8.7,
+          "width": 90.9,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "NAP/citation consistency",
+          "x": 520,
+          "y": 313.5,
+          "size": 8.7,
+          "width": 95.73,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "FAQ expansion",
+          "x": 740,
+          "y": 313.5,
+          "size": 8.7,
+          "width": 59.96,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Canonical / redirect checks",
+          "x": 80,
+          "y": 301.7,
+          "size": 8.7,
+          "width": 104.43,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Keyword-aligned copy updates",
+          "x": 300,
+          "y": 292.7,
+          "size": 8.7,
+          "width": 118.96,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Service-area strategy",
+          "x": 520,
+          "y": 292.7,
+          "size": 8.7,
+          "width": 82.68,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Search-led content briefs",
+          "x": 740,
+          "y": 292.7,
+          "size": 8.7,
+          "width": 96.71,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "URL and permalink cleanup",
+          "x": 80,
+          "y": 280.9,
+          "size": 8.7,
+          "width": 107.34,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Priority service-page optimisation",
+          "x": 300,
+          "y": 271.9,
+          "size": 8.7,
+          "width": 128.12,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Review and trust-signal",
+          "x": 520,
+          "y": 271.9,
+          "size": 8.7,
+          "width": 90.41,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Conversion-focused CTAs",
+          "x": 740,
+          "y": 271.9,
+          "size": 8.7,
+          "width": 101.53,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Schema and internal-link",
+          "x": 80,
+          "y": 260.1,
+          "size": 8.7,
+          "width": 95.73,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "improvements",
+          "x": 520,
+          "y": 260.1,
+          "size": 8.7,
+          "width": 54.63,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "improvements",
+          "x": 80,
+          "y": 248.3,
+          "size": 8.7,
+          "width": 54.63,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 14,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "Nova Care Australia · Search Growth Proposal · 10",
+          "x": 766.97,
+          "y": 14,
+          "size": 6.5,
+          "width": 147.03,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#1D174F"
+        },
+        {
+          "kind": "roundRect",
+          "x": 625,
+          "y": 125,
+          "w": 280,
+          "h": 305,
+          "radius": 11.24,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 648,
+          "y": 344,
+          "w": 234,
+          "h": 45,
+          "radius": 5.49,
+          "fill": "#E8FCF8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 648,
+          "y": 286,
+          "w": 234,
+          "h": 45,
+          "radius": 5.49,
+          "fill": "#E8FCF8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 648,
+          "y": 228,
+          "w": 234,
+          "h": 45,
+          "radius": 5.49,
+          "fill": "#E8FCF8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 648,
+          "y": 170,
+          "w": 234,
+          "h": 45,
+          "radius": 5.49,
+          "fill": "#E8FCF8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 47.8,
+          "y": 290.1,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 47.8,
+          "y": 265.1,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 47.8,
+          "y": 240.1,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 47.8,
+          "y": 215.1,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 27,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#00D8B5",
+          "text": "06 · GOOGLE ADS STRATEGY",
+          "x": 46,
+          "y": 493,
+          "size": 8,
+          "width": 115.58,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "Capture demand now while SEO builds",
+          "x": 46,
+          "y": 446,
+          "size": 31,
+          "width": 575.36,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#D9D7EA",
+          "text": "Google Ads provides immediate visibility for high-intent searches. The recommended approach is",
+          "x": 46,
+          "y": 417.5,
+          "size": 12.5,
+          "width": 537.7,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Recommended campaign structure",
+          "x": 647.11,
+          "y": 402.64,
+          "size": 14,
+          "width": 234.16,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#D9D7EA",
+          "text": "a tightly controlled Search campaign focused on the services Nova is actively able to take",
+          "x": 46,
+          "y": 400.5,
+          "size": 12.5,
+          "width": 494.66,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#D9D7EA",
+          "text": "enquiries for.",
+          "x": 46,
+          "y": 383.5,
+          "size": 12.5,
+          "width": 72.25,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1D174F",
+          "text": "SIL / Accommodation",
+          "x": 660,
+          "y": 371,
+          "size": 9.2,
+          "width": 94.06,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "High-intent housing and support searches",
+          "x": 660,
+          "y": 356,
+          "size": 7.8,
+          "width": 144.37,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1D174F",
+          "text": "Support Coordination",
+          "x": 660,
+          "y": 313,
+          "size": 9.2,
+          "width": 95.06,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Plan and coordinator searches",
+          "x": 660,
+          "y": 298,
+          "size": 7.8,
+          "width": 105.78,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#D9D7EA",
+          "text": "Geo-target genuine service areas only.",
+          "x": 62,
+          "y": 290,
+          "size": 10,
+          "width": 172.3,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#D9D7EA",
+          "text": "Use exact/phrase-led keyword control plus negatives.",
+          "x": 62,
+          "y": 265,
+          "size": 10,
+          "width": 236.76,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1D174F",
+          "text": "Community / Daily Supports",
+          "x": 660,
+          "y": 255,
+          "size": 9.2,
+          "width": 123.2,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#D9D7EA",
+          "text": "Track phone calls, form submissions and referral completions.",
+          "x": 62,
+          "y": 240,
+          "size": 10,
+          "width": 274.53,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Participation, household and daily-living intent",
+          "x": 660,
+          "y": 240,
+          "size": 7.8,
+          "width": 158.24,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#D9D7EA",
+          "text": "Use search-term data to improve SEO priorities.",
+          "x": 62,
+          "y": 215,
+          "size": 10,
+          "width": 212.84,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1D174F",
+          "text": "Brand Defence",
+          "x": 660,
+          "y": 197,
+          "size": 9.2,
+          "width": 64.92,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Nova Care branded searches and protection",
+          "x": 660,
+          "y": 182,
+          "size": 7.8,
+          "width": 153.47,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 14,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "Nova Care Australia · Search Growth Proposal · 11",
+          "x": 766.97,
+          "y": 14,
+          "size": 6.5,
+          "width": 147.03,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#FAFAFD"
+        },
+        {
+          "kind": "rule",
+          "x": 120,
+          "y": 280,
+          "w": 720,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 146,
+          "y": 266,
+          "w": 28,
+          "h": 28,
+          "radius": 9.84,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 376,
+          "y": 266,
+          "w": 28,
+          "h": 28,
+          "radius": 9.84,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 606,
+          "y": 266,
+          "w": 28,
+          "h": 28,
+          "radius": 9.84,
+          "fill": "#2C9A43"
+        },
+        {
+          "kind": "roundRect",
+          "x": 816,
+          "y": 266,
+          "w": 28,
+          "h": 28,
+          "radius": 9.84,
+          "fill": "#1D174F"
+        },
+        {
+          "kind": "roundRect",
+          "x": 120,
+          "y": 92,
+          "w": 720,
+          "h": 55,
+          "radius": 8.43,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 120,
+          "y": 92,
+          "w": 720,
+          "h": 55,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 27,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8A35E8",
+          "text": "06 · SEARCH STRATEGY",
+          "x": 46,
+          "y": 493,
+          "size": 8,
+          "width": 95.13,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "One strategy, two acquisition channels",
+          "x": 46,
+          "y": 446,
+          "size": 31,
+          "width": 575.39,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "NOW",
+          "x": 150.22,
+          "y": 325,
+          "size": 8,
+          "width": 19.55,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "1-3 MONTHS",
+          "x": 365.78,
+          "y": 325,
+          "size": 8,
+          "width": 48.45,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "3-6 MONTHS",
+          "x": 595.78,
+          "y": 325,
+          "size": 8,
+          "width": 48.45,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "ONGOING",
+          "x": 810.66,
+          "y": 325,
+          "size": 8,
+          "width": 38.67,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Google Ads",
+          "x": 129.13,
+          "y": 235,
+          "size": 11,
+          "width": 61.73,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "SEO Foundation",
+          "x": 346.91,
+          "y": 235,
+          "size": 11,
+          "width": 86.17,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Organic Growth",
+          "x": 578.44,
+          "y": 235,
+          "size": 11,
+          "width": 83.13,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Compound",
+          "x": 800.98,
+          "y": 235,
+          "size": 11,
+          "width": 58.05,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Immediate high-intent visibility",
+          "x": 103.98,
+          "y": 209.6,
+          "size": 8.4,
+          "width": 112.03,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Better pages, cleaner signals, local relevance",
+          "x": 305.5,
+          "y": 209.6,
+          "size": 8.4,
+          "width": 169.01,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "More impressions, rankings and enquiries",
+          "x": 542.27,
+          "y": 209.6,
+          "size": 8.4,
+          "width": 155.45,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Ads + SEO data improve each other",
+          "x": 762.65,
+          "y": 209.6,
+          "size": 8.4,
+          "width": 134.7,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "The practical benefit:",
+          "x": 140,
+          "y": 124,
+          "size": 10,
+          "width": 100.58,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Ads tell us which searches generate real enquiries. SEO then turns the strongest themes into long-term organic assets, while",
+          "x": 243.36,
+          "y": 124,
+          "size": 10,
+          "width": 552.46,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "better landing pages improve both paid and organic conversion.",
+          "x": 140,
+          "y": 111,
+          "size": 10,
+          "width": 281.81,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 14,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "Nova Care Australia · Search Growth Proposal · 12",
+          "x": 766.97,
+          "y": 14,
+          "size": 6.5,
+          "width": 147.03,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#FAFAFD"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 108,
+          "w": 270,
+          "h": 309,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 108,
+          "w": 270,
+          "h": 309,
+          "radius": 9.83,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 65.8,
+          "y": 318.42,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 65.8,
+          "y": 298.08,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 65.8,
+          "y": 269.62,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 65.8,
+          "y": 251.02,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 65.8,
+          "y": 232.42,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 340,
+          "y": 108,
+          "w": 270,
+          "h": 309,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 340,
+          "y": 108,
+          "w": 270,
+          "h": 309,
+          "radius": 9.83,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 359.8,
+          "y": 318.42,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 359.8,
+          "y": 299.82,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 359.8,
+          "y": 281.22,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 359.8,
+          "y": 262.62,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 359.8,
+          "y": 244.02,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 634,
+          "y": 108,
+          "w": 270,
+          "h": 309,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 634,
+          "y": 108,
+          "w": 270,
+          "h": 309,
+          "radius": 9.83,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 653.8,
+          "y": 318.42,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 653.8,
+          "y": 299.82,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 653.8,
+          "y": 281.22,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 653.8,
+          "y": 262.62,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 653.8,
+          "y": 244.02,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 27,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8A35E8",
+          "text": "07 · ROADMAP",
+          "x": 46,
+          "y": 493,
+          "size": 8,
+          "width": 56.9,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "First 90 days",
+          "x": 46,
+          "y": 446,
+          "size": 31,
+          "width": 189.53,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "MONTH 1",
+          "x": 64,
+          "y": 385,
+          "size": 9,
+          "width": 40.5,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#00D8B5",
+          "text": "MONTH 2",
+          "x": 358,
+          "y": 385,
+          "size": 9,
+          "width": 40.5,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "MONTH 3",
+          "x": 652,
+          "y": 385,
+          "size": 9,
+          "width": 40.5,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Foundation",
+          "x": 64,
+          "y": 359,
+          "size": 17,
+          "width": 92.55,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Localise",
+          "x": 358,
+          "y": 359,
+          "size": 17,
+          "width": 68.03,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Expand",
+          "x": 652,
+          "y": 359,
+          "size": 17,
+          "width": 61.4,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Confirm primary location, service areas and NAP",
+          "x": 80,
+          "y": 318.45,
+          "size": 8.55,
+          "width": 184.83,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Optimise homepage and priority service pages",
+          "x": 374,
+          "y": 318.45,
+          "size": 8.55,
+          "width": 176.29,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Optimise next service-page group",
+          "x": 668,
+          "y": 318.45,
+          "size": 8.55,
+          "width": 127.82,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Set up/verify GA4, Search Console and conversion",
+          "x": 80,
+          "y": 299.85,
+          "size": 8.55,
+          "width": 192.94,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Google Business Profile improvements",
+          "x": 374,
+          "y": 299.85,
+          "size": 8.55,
+          "width": 147.3,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Build local citations / directory consistency",
+          "x": 668,
+          "y": 299.85,
+          "size": 8.55,
+          "width": 159.65,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "tracking",
+          "x": 80,
+          "y": 288.25,
+          "size": 8.55,
+          "width": 29.93,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Internal linking and schema implementation",
+          "x": 374,
+          "y": 281.25,
+          "size": 8.55,
+          "width": 164.42,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Add FAQs, proof points and stronger CTAs",
+          "x": 668,
+          "y": 281.25,
+          "size": 8.55,
+          "width": 163,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Technical crawl + indexation review",
+          "x": 80,
+          "y": 269.65,
+          "size": 8.55,
+          "width": 134.71,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Create first priority local/service landing page",
+          "x": 374,
+          "y": 262.65,
+          "size": 8.55,
+          "width": 170.58,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Publish second local/service content asset",
+          "x": 668,
+          "y": 262.65,
+          "size": 8.55,
+          "width": 160.62,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Fix highest-priority title/H1/URL issues",
+          "x": 80,
+          "y": 251.05,
+          "size": 8.55,
+          "width": 144.91,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Refine Ads negatives, bids, copy and search terms",
+          "x": 374,
+          "y": 244.05,
+          "size": 8.55,
+          "width": 192.46,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Review enquiry quality and reallocate budget",
+          "x": 668,
+          "y": 244.05,
+          "size": 8.55,
+          "width": 170.13,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Launch or restructure Google Ads Search campaigns",
+          "x": 80,
+          "y": 232.45,
+          "size": 8.55,
+          "width": 201.49,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 14,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "Nova Care Australia · Search Growth Proposal · 13",
+          "x": 766.97,
+          "y": 14,
+          "size": 6.5,
+          "width": 147.03,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#FAFAFD"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 292,
+          "w": 270,
+          "h": 120,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 292,
+          "w": 270,
+          "h": 120,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 64,
+          "y": 359,
+          "w": 40,
+          "h": 34,
+          "radius": 5.49,
+          "fill": "#E8FCF8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 340,
+          "y": 292,
+          "w": 270,
+          "h": 120,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 340,
+          "y": 292,
+          "w": 270,
+          "h": 120,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 358,
+          "y": 359,
+          "w": 40,
+          "h": 34,
+          "radius": 5.49,
+          "fill": "#E8FCF8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 634,
+          "y": 292,
+          "w": 270,
+          "h": 120,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 634,
+          "y": 292,
+          "w": 270,
+          "h": 120,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 652,
+          "y": 359,
+          "w": 40,
+          "h": 34,
+          "radius": 5.49,
+          "fill": "#E8FCF8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 147,
+          "w": 270,
+          "h": 120,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 147,
+          "w": 270,
+          "h": 120,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 64,
+          "y": 214,
+          "w": 40,
+          "h": 34,
+          "radius": 5.49,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 340,
+          "y": 147,
+          "w": 270,
+          "h": 120,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 340,
+          "y": 147,
+          "w": 270,
+          "h": 120,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 358,
+          "y": 214,
+          "w": 40,
+          "h": 34,
+          "radius": 5.49,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "roundRect",
+          "x": 634,
+          "y": 147,
+          "w": 270,
+          "h": 120,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 634,
+          "y": 147,
+          "w": 270,
+          "h": 120,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 652,
+          "y": 214,
+          "w": 40,
+          "h": 34,
+          "radius": 5.49,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 27,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8A35E8",
+          "text": "07 · ROADMAP",
+          "x": 46,
+          "y": 493,
+          "size": 8,
+          "width": 56.9,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Months 4-6: build authority and coverage",
+          "x": 46,
+          "y": 446,
+          "size": 31,
+          "width": 606.33,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Service expansion",
+          "x": 118,
+          "y": 375,
+          "size": 12,
+          "width": 105.38,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Local expansion",
+          "x": 412,
+          "y": 375,
+          "size": 12,
+          "width": 94.03,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Content & FAQs",
+          "x": 706,
+          "y": 375,
+          "size": 12,
+          "width": 92.66,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#00D8B5",
+          "text": "1",
+          "x": 79.83,
+          "y": 369,
+          "size": 15,
+          "width": 8.34,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#00D8B5",
+          "text": "2",
+          "x": 373.83,
+          "y": 369,
+          "size": 15,
+          "width": 8.34,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#00D8B5",
+          "text": "3",
+          "x": 667.83,
+          "y": 369,
+          "size": 15,
+          "width": 8.34,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Add or improve high-value service pages based on real",
+          "x": 64,
+          "y": 344.2,
+          "size": 8.8,
+          "width": 215.2,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Extend genuine service-area coverage into the strongest",
+          "x": 358,
+          "y": 344.2,
+          "size": 8.8,
+          "width": 220.6,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Publish useful service-led content that answers participant,",
+          "x": 652,
+          "y": 344.2,
+          "size": 8.8,
+          "width": 228.9,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "search demand and enquiry quality.",
+          "x": 64,
+          "y": 332.9,
+          "size": 8.8,
+          "width": 139.4,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Southern Sydney / Sutherland themes.",
+          "x": 358,
+          "y": 332.9,
+          "size": 8.8,
+          "width": 151.15,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "family and referrer questions.",
+          "x": 652,
+          "y": 332.9,
+          "size": 8.8,
+          "width": 113.95,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Authority",
+          "x": 118,
+          "y": 230,
+          "size": 12,
+          "width": 53.33,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Conversion",
+          "x": 412,
+          "y": 230,
+          "size": 12,
+          "width": 66.01,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Optimisation",
+          "x": 706,
+          "y": 230,
+          "size": 12,
+          "width": 73.34,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "4",
+          "x": 79.83,
+          "y": 224,
+          "size": 15,
+          "width": 8.34,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "5",
+          "x": 373.83,
+          "y": 224,
+          "size": 15,
+          "width": 8.34,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "6",
+          "x": 667.83,
+          "y": 224,
+          "size": 15,
+          "width": 8.34,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Strengthen reputable citations, partnerships and link",
+          "x": 64,
+          "y": 199.2,
+          "size": 8.8,
+          "width": 202.99,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Improve forms, call paths, referral flow and landing-page",
+          "x": 358,
+          "y": 199.2,
+          "size": 8.8,
+          "width": 219.6,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Use Search Console, GA4 and Ads data to continuously",
+          "x": 652,
+          "y": 199.2,
+          "size": 8.8,
+          "width": 218.64,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "opportunities without spam-based link building.",
+          "x": 64,
+          "y": 187.9,
+          "size": 8.8,
+          "width": 182.43,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "messaging using tracked behaviour.",
+          "x": 358,
+          "y": 187.9,
+          "size": 8.8,
+          "width": 140.86,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "reprioritise keywords, pages and budget.",
+          "x": 652,
+          "y": 187.9,
+          "size": 8.8,
+          "width": 158.47,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 14,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "Nova Care Australia · Search Growth Proposal · 14",
+          "x": 766.97,
+          "y": 14,
+          "size": 6.5,
+          "width": 147.03,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#FAFAFD"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 180,
+          "w": 200,
+          "h": 220,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 180,
+          "w": 200,
+          "h": 220,
+          "radius": 9.83,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 67,
+          "y": 335,
+          "w": 34,
+          "h": 34,
+          "radius": 13.57,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 266,
+          "y": 180,
+          "w": 200,
+          "h": 220,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 266,
+          "y": 180,
+          "w": 200,
+          "h": 220,
+          "radius": 9.83,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 287,
+          "y": 335,
+          "w": 34,
+          "h": 34,
+          "radius": 13.57,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 486,
+          "y": 180,
+          "w": 200,
+          "h": 220,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 486,
+          "y": 180,
+          "w": 200,
+          "h": 220,
+          "radius": 9.83,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 507,
+          "y": 335,
+          "w": 34,
+          "h": 34,
+          "radius": 13.57,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 706,
+          "y": 180,
+          "w": 200,
+          "h": 220,
+          "radius": 9.83,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 706,
+          "y": 180,
+          "w": 200,
+          "h": 220,
+          "radius": 9.83,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 727,
+          "y": 335,
+          "w": 34,
+          "h": 34,
+          "radius": 13.57,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 90,
+          "w": 860,
+          "h": 52,
+          "radius": 7.02,
+          "fill": "#EAF7EF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 90,
+          "w": 860,
+          "h": 52,
+          "radius": 7.02,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 27,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8A35E8",
+          "text": "07 · MEASUREMENT",
+          "x": 46,
+          "y": 493,
+          "size": 8,
+          "width": 78.23,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Reporting that focuses on enquiries, not vanity metrics",
+          "x": 46,
+          "y": 446,
+          "size": 31,
+          "width": 813.07,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "1",
+          "x": 80.39,
+          "y": 347,
+          "size": 13,
+          "width": 7.23,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "2",
+          "x": 300.39,
+          "y": 347,
+          "size": 13,
+          "width": 7.23,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "3",
+          "x": 520.39,
+          "y": 347,
+          "size": 13,
+          "width": 7.23,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "4",
+          "x": 740.39,
+          "y": 347,
+          "size": 13,
+          "width": 7.23,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "SEO visibility",
+          "x": 66,
+          "y": 312,
+          "size": 13,
+          "width": 83.1,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Local performance",
+          "x": 286,
+          "y": 312,
+          "size": 13,
+          "width": 116.31,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Google Ads",
+          "x": 506,
+          "y": 312,
+          "size": 13,
+          "width": 72.96,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Lead outcomes",
+          "x": 726,
+          "y": 312,
+          "size": 13,
+          "width": 95.36,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Search impressions, clicks, priority",
+          "x": 66,
+          "y": 284.77,
+          "size": 10,
+          "width": 153.36,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Google Business Profile actions,",
+          "x": 286,
+          "y": 284.77,
+          "size": 10,
+          "width": 146.73,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Spend, clicks, cost per enquiry,",
+          "x": 506,
+          "y": 284.77,
+          "size": 10,
+          "width": 138.39,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Tracked calls, forms, referral",
+          "x": 726,
+          "y": 284.77,
+          "size": 10,
+          "width": 126.69,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "keyword movement, landing-page",
+          "x": 66,
+          "y": 271.77,
+          "size": 10,
+          "width": 150.06,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "local landing-page performance,",
+          "x": 286,
+          "y": 271.77,
+          "size": 10,
+          "width": 146.72,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "search terms, conversion rate and",
+          "x": 506,
+          "y": 271.77,
+          "size": 10,
+          "width": 151.17,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "submissions and - where available",
+          "x": 726,
+          "y": 271.77,
+          "size": 10,
+          "width": 152.83,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "growth.",
+          "x": 66,
+          "y": 258.77,
+          "size": 10,
+          "width": 32.79,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "service-area visibility.",
+          "x": 286,
+          "y": 258.77,
+          "size": 10,
+          "width": 95.01,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "enquiry quality.",
+          "x": 506,
+          "y": 258.77,
+          "size": 10,
+          "width": 67.25,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "-qualified/accepted leads.",
+          "x": 726,
+          "y": 258.77,
+          "size": 10,
+          "width": 113.39,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#2C9A43",
+          "text": "Cadence:",
+          "x": 66,
+          "y": 111.7,
+          "size": 10.3,
+          "width": 46.36,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#2C9A43",
+          "text": "monthly performance report + review of SEO actions, Google Ads performance, lead quality and next-month priorities.",
+          "x": 115.22,
+          "y": 111.7,
+          "size": 10.3,
+          "width": 536.68,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 14,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "Nova Care Australia · Search Growth Proposal · 15",
+          "x": 766.97,
+          "y": 14,
+          "size": 6.5,
+          "width": 147.03,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#1D174F"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 110.62,
+          "w": 555,
+          "h": 254,
+          "radius": 11.24,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "rule",
+          "x": 70,
+          "y": 279,
+          "w": 495,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 70,
+          "y": 231,
+          "w": 495,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 70,
+          "y": 183,
+          "w": 495,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 625,
+          "y": 150,
+          "w": 280,
+          "h": 210,
+          "radius": 11.24,
+          "fill": "#2A235F"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 625,
+          "y": 150,
+          "w": 280,
+          "h": 210,
+          "radius": 11.24,
+          "stroke": "#403681"
+        },
+        {
+          "kind": "roundRect",
+          "x": 649.8,
+          "y": 291.31,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 649.8,
+          "y": 270.51,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 649.8,
+          "y": 249.71,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 649.8,
+          "y": 228.91,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 649.8,
+          "y": 208.11,
+          "w": 4.4,
+          "h": 4.4,
+          "radius": 0.64,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 27,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#00D8B5",
+          "text": "08 · INVESTMENT",
+          "x": 46,
+          "y": 493,
+          "size": 8,
+          "width": 67.13,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "Recommended Search Growth package",
+          "x": 46,
+          "y": 446,
+          "size": 31,
+          "width": 584.01,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#D9D7EA",
+          "text": "Based on WPPRO’s existing Google Ads package structure, the Growth option is the cleanest fit for the original $2,000/month target.",
+          "x": 46,
+          "y": 416.5,
+          "size": 11.5,
+          "width": 674.99,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "RECOMMENDED",
+          "x": 70,
+          "y": 334,
+          "size": 8.5,
+          "width": 68.47,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#00D8B5",
+          "text": "SEO $750 / MONTH INCLUDES",
+          "x": 648,
+          "y": 329,
+          "size": 11,
+          "width": 159.53,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Google Ads - Growth package amount",
+          "x": 70,
+          "y": 295,
+          "size": 11,
+          "width": 187.09,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "$900",
+          "x": 540.54,
+          "y": 295,
+          "size": 11,
+          "width": 24.46,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "Technical + on-page optimisation",
+          "x": 664,
+          "y": 291.3,
+          "size": 8.7,
+          "width": 127.9,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "Local SEO / GBP / citation work",
+          "x": 664,
+          "y": 270.5,
+          "size": 8.7,
+          "width": 122.82,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "Priority service & location pages",
+          "x": 664,
+          "y": 249.7,
+          "size": 8.7,
+          "width": 123.77,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Google Ads management / package fee",
+          "x": 70,
+          "y": 247,
+          "size": 11,
+          "width": 193.83,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "$350",
+          "x": 540.54,
+          "y": 247,
+          "size": 11,
+          "width": 24.46,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "GA4 + Search Console reporting",
+          "x": 664,
+          "y": 228.9,
+          "size": 8.7,
+          "width": 125.97,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "Monthly strategy and Google Ads alignment",
+          "x": 664,
+          "y": 208.1,
+          "size": 8.7,
+          "width": 168.76,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "SEO & Local Search Management",
+          "x": 70,
+          "y": 199,
+          "size": 11,
+          "width": 176.05,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "$750",
+          "x": 540.54,
+          "y": 199,
+          "size": 11,
+          "width": 24.46,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1D174F",
+          "text": "TOTAL PER MONTH",
+          "x": 70,
+          "y": 150,
+          "size": 17,
+          "width": 163.39,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "$2,000",
+          "x": 491.61,
+          "y": 144,
+          "size": 24,
+          "width": 73.39,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "incl. GST, matching current WPPRO quote format",
+          "x": 399.53,
+          "y": 130,
+          "size": 7.5,
+          "width": 165.47,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 14,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "Nova Care Australia · Search Growth Proposal · 16",
+          "x": 766.97,
+          "y": 14,
+          "size": 6.5,
+          "width": 147.03,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#FAFAFD"
+        },
+        {
+          "kind": "rect",
+          "x": 94,
+          "y": 360,
+          "w": 730,
+          "h": 42,
+          "radius": 0,
+          "fill": "#1D174F"
+        },
+        {
+          "kind": "rect",
+          "x": 94,
+          "y": 210,
+          "w": 730,
+          "h": 150,
+          "radius": 0,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "rect",
+          "x": 94,
+          "y": 260,
+          "w": 730,
+          "h": 50,
+          "radius": 0,
+          "fill": "#F2ECFF"
+        },
+        {
+          "kind": "rule",
+          "x": 94,
+          "y": 402,
+          "w": 730,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 94,
+          "y": 210,
+          "w": 730,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 94,
+          "y": 210,
+          "w": 0,
+          "h": 192,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 824,
+          "y": 210,
+          "w": 0,
+          "h": 192,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 94,
+          "y": 360,
+          "w": 730,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 94,
+          "y": 310,
+          "w": 730,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 94,
+          "y": 260,
+          "w": 730,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 264,
+          "y": 210,
+          "w": 0,
+          "h": 192,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 404,
+          "y": 210,
+          "w": 0,
+          "h": 192,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 534,
+          "y": 210,
+          "w": 0,
+          "h": 192,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 664,
+          "y": 210,
+          "w": 0,
+          "h": 192,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 27,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8A35E8",
+          "text": "08 · INVESTMENT",
+          "x": 46,
+          "y": 493,
+          "size": 8,
+          "width": 67.13,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Package options with SEO added",
+          "x": 46,
+          "y": 446,
+          "size": 31,
+          "width": 490.98,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "Option",
+          "x": 108,
+          "y": 377,
+          "size": 10,
+          "width": 32.22,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "Ads Amount",
+          "x": 278,
+          "y": 377,
+          "size": 10,
+          "width": 59.44,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "Ads Fee",
+          "x": 418,
+          "y": 377,
+          "size": 10,
+          "width": 38.9,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "SEO",
+          "x": 548,
+          "y": 377,
+          "size": 10,
+          "width": 21.12,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "Monthly Total",
+          "x": 678,
+          "y": 377,
+          "size": 10,
+          "width": 65,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Starter",
+          "x": 108,
+          "y": 330,
+          "size": 11,
+          "width": 33.01,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "$300",
+          "x": 325.77,
+          "y": 330,
+          "size": 11,
+          "width": 24.46,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "$350",
+          "x": 460.77,
+          "y": 330,
+          "size": 11,
+          "width": 24.46,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "$750",
+          "x": 590.77,
+          "y": 330,
+          "size": 11,
+          "width": 24.46,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "$1,400",
+          "x": 731.18,
+          "y": 330,
+          "size": 11,
+          "width": 33.64,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Growth",
+          "x": 108,
+          "y": 280,
+          "size": 11,
+          "width": 38.5,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "$900",
+          "x": 325.77,
+          "y": 280,
+          "size": 11,
+          "width": 24.46,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "$350",
+          "x": 460.77,
+          "y": 280,
+          "size": 11,
+          "width": 24.46,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "$750",
+          "x": 590.77,
+          "y": 280,
+          "size": 11,
+          "width": 24.46,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#8A35E8",
+          "text": "$2,000",
+          "x": 731.18,
+          "y": 280,
+          "size": 11,
+          "width": 33.64,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Pro",
+          "x": 108,
+          "y": 230,
+          "size": 11,
+          "width": 17.12,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "$1,800",
+          "x": 321.18,
+          "y": 230,
+          "size": 11,
+          "width": 33.64,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "$350",
+          "x": 460.77,
+          "y": 230,
+          "size": 11,
+          "width": 24.46,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "$750",
+          "x": 590.77,
+          "y": 230,
+          "size": 11,
+          "width": 24.46,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "$2,900",
+          "x": 731.18,
+          "y": 230,
+          "size": 11,
+          "width": 33.64,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "The Growth package is recommended because it preserves enough paid-search budget for meaningful optimisation while leaving room for an ongoing SEO",
+          "x": 94,
+          "y": 172,
+          "size": 11,
+          "width": 756.28,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "program within the $2,000 monthly target.",
+          "x": 94,
+          "y": 157,
+          "size": 11,
+          "width": 202.98,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 14,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#A1A2B0",
+          "text": "Totals derived from the WPPRO Starter, Growth and Pro quotes supplied for Nova Care Australia.",
+          "x": 354.29,
+          "y": 14,
+          "size": 5.8,
+          "width": 251.43,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "Nova Care Australia · Search Growth Proposal · 17",
+          "x": 766.97,
+          "y": 14,
+          "size": 6.5,
+          "width": 147.03,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "width": 960,
+      "height": 540,
+      "shapes": [
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "radius": 0,
+          "fill": "#FAFAFD"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 305,
+          "w": 420,
+          "h": 115,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 305,
+          "w": 420,
+          "h": 115,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 66,
+          "y": 364,
+          "w": 36,
+          "h": 36,
+          "radius": 14.37,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 490,
+          "y": 305,
+          "w": 420,
+          "h": 115,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 490,
+          "y": 305,
+          "w": 420,
+          "h": 115,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 510,
+          "y": 364,
+          "w": 36,
+          "h": 36,
+          "radius": 14.37,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 160,
+          "w": 420,
+          "h": 115,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 46,
+          "y": 160,
+          "w": 420,
+          "h": 115,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 66,
+          "y": 219,
+          "w": 36,
+          "h": 36,
+          "radius": 14.37,
+          "fill": "#8A35E8"
+        },
+        {
+          "kind": "roundRect",
+          "x": 490,
+          "y": 160,
+          "w": 420,
+          "h": 115,
+          "radius": 8.43,
+          "fill": "#FFFFFF"
+        },
+        {
+          "kind": "roundRectOutline",
+          "x": 490,
+          "y": 160,
+          "w": 420,
+          "h": 115,
+          "radius": 8.43,
+          "stroke": "#E2E3EC"
+        },
+        {
+          "kind": "roundRect",
+          "x": 510,
+          "y": 219,
+          "w": 36,
+          "h": 36,
+          "radius": 14.37,
+          "fill": "#00D8B5"
+        },
+        {
+          "kind": "roundRect",
+          "x": 46,
+          "y": 70,
+          "w": 860,
+          "h": 65,
+          "radius": 8.43,
+          "fill": "#1D174F"
+        },
+        {
+          "kind": "rule",
+          "x": 46,
+          "y": 27,
+          "w": 868,
+          "h": 0,
+          "radius": 0,
+          "stroke": "#E2E3EC"
+        }
+      ],
+      "runs": [
+        {
+          "colour": "#8A35E8",
+          "text": "08 · NEXT STEPS",
+          "x": 46,
+          "y": 493,
+          "size": 8,
+          "width": 65.36,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "What happens next",
+          "x": 46,
+          "y": 446,
+          "size": 31,
+          "width": 284.21,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Confirm scope",
+          "x": 116,
+          "y": 387,
+          "size": 12.5,
+          "width": 87.51,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Access & measurement",
+          "x": 560,
+          "y": 387,
+          "size": 12.5,
+          "width": 141.03,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "1",
+          "x": 80.66,
+          "y": 378,
+          "size": 12,
+          "width": 6.67,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "2",
+          "x": 524.66,
+          "y": 378,
+          "size": 12,
+          "width": 6.67,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Confirm the customer-facing address/service radius and which services Nova",
+          "x": 116,
+          "y": 368.2,
+          "size": 8.8,
+          "width": 300.76,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Provide WordPress, Google Ads, GA4/Search Console and Google Business",
+          "x": 560,
+          "y": 368.2,
+          "size": 8.8,
+          "width": 300.31,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "wants to prioritise.",
+          "x": 116,
+          "y": 356.9,
+          "size": 8.8,
+          "width": 70.91,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "Profile access.",
+          "x": 560,
+          "y": 356.9,
+          "size": 8.8,
+          "width": 57.22,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Launch audit",
+          "x": 116,
+          "y": 242,
+          "size": 12.5,
+          "width": 77.79,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#1F2032",
+          "text": "Begin growth",
+          "x": 560,
+          "y": 242,
+          "size": 12.5,
+          "width": 79.86,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "3",
+          "x": 80.66,
+          "y": 233,
+          "size": 12,
+          "width": 6.67,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "4",
+          "x": 524.66,
+          "y": 233,
+          "size": 12,
+          "width": 6.67,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "WPPRO completes the technical/local audit, keyword validation and tracking",
+          "x": 116,
+          "y": 223.2,
+          "size": 8.8,
+          "width": 297.36,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "SEO changes roll out alongside the Growth Google Ads campaign, with monthly",
+          "x": 560,
+          "y": 223.2,
+          "size": 8.8,
+          "width": 311.56,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "setup.",
+          "x": 116,
+          "y": 211.9,
+          "size": 8.8,
+          "width": 23.97,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#54566A",
+          "text": "optimisation and reporting.",
+          "x": 560,
+          "y": 211.9,
+          "size": 8.8,
+          "width": 103.69,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#FFFFFF",
+          "text": "Recommended engagement: Growth Google Ads + SEO = $2,000/month",
+          "x": 68,
+          "y": 105,
+          "size": 16,
+          "width": 545.92,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#D9D7EA",
+          "text": "SEO is a compounding channel. Specific rankings or lead volumes cannot be guaranteed; WPPRO guarantees the agreed work, tracking, reporting and ongoing optimisation.",
+          "x": 68,
+          "y": 86,
+          "size": 9.2,
+          "width": 706.18,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "WPPRO",
+          "x": 46,
+          "y": 14,
+          "size": 6.5,
+          "width": 24.56,
+          "fontId": "g_d0_f3",
+          "font": "sans-serif"
+        },
+        {
+          "colour": "#85879A",
+          "text": "Nova Care Australia · Search Growth Proposal · 18",
+          "x": 766.97,
+          "y": 14,
+          "size": 6.5,
+          "width": 147.03,
+          "fontId": "g_d0_f1",
+          "font": "sans-serif"
+        }
+      ]
+    }
+  ]
+}

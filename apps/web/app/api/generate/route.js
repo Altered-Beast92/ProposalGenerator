@@ -3,9 +3,22 @@ import { buildContent } from '../../../lib/bind';
 export const runtime = 'nodejs';
 export const maxDuration = 60;
 
-// The renderer is a separate service: a serverless function cannot spawn Python.
-// Defaults to the local dev server so `npm run dev` works with no configuration.
-const RENDERER_URL = (process.env.RENDERER_URL ?? 'http://127.0.0.1:8000').replace(/\/$/, '');
+/**
+ * Where to reach the Python renderer.
+ *
+ * On Vercel it is the sibling function at /api/render, in the same deployment.
+ * `next dev` cannot run Vercel's Python runtime, so locally it falls back to
+ * the uvicorn service (see services/renderer). RENDERER_URL overrides both.
+ */
+function rendererEndpoint() {
+  if (process.env.RENDERER_URL) {
+    return `${process.env.RENDERER_URL.replace(/\/$/, '')}/render`;
+  }
+  if (process.env.VERCEL_URL) {
+    return `https://${process.env.VERCEL_URL}/api/render`;
+  }
+  return 'http://127.0.0.1:8000/render';
+}
 
 const TEMPLATES = {
   'seo-only': {
@@ -69,9 +82,10 @@ export async function POST(request) {
       if (typeof dataUrl === 'string' && dataUrl.startsWith('data:image/')) logos[frame] = dataUrl;
     }
 
+    const endpoint = rendererEndpoint();
     let res;
     try {
-      res = await fetch(`${RENDERER_URL}/render`, {
+      res = await fetch(endpoint, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -89,7 +103,7 @@ export async function POST(request) {
       return Response.json(
         {
           error: 'renderer unreachable',
-          detail: `Could not reach the render service at ${RENDERER_URL}. ${String(err.message ?? err)}`,
+          detail: `Could not reach the render service at ${endpoint}. ${String(err.message ?? err)}`,
         },
         { status: 502 },
       );
