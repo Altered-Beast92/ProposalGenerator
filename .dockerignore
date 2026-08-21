@@ -1,0 +1,28 @@
+# The renderer image builds from the repository root, so without this the whole
+# working tree - virtualenvs, node_modules, build output - gets uploaded as
+# build context on every deploy.
+
+# Dependencies and virtualenvs
+node_modules/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Build output
+.next/
+build/
+apps/web/spec/
+
+# Anything the renderer does not need
+apps/
+tools/
+templates/
+.git/
+.claude/
+*.md
+
+# Local noise
+.env
+.env.*
+.vercel
+.DS_Store
