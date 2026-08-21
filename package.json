@@ -1,0 +1,18 @@
+{
+  "name": "proposal-generator",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Generates WPPRO search proposals as PDFs from a frozen layout spec.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "npm run dev --prefix apps/web",
+    "setup": "node tools/dev.mjs setup",
+    "extract": "node tools/dev.mjs extract",
+    "render": "node tools/dev.mjs render",
+    "verify": "node tools/dev.mjs verify",
+    "test": "node tools/dev.mjs render && node tools/dev.mjs verify"
+  }
+}

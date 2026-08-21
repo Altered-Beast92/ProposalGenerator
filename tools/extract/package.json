@@ -1,0 +1,13 @@
+{
+  "name": "@proposalgen/extract",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Extracts frozen layout geometry from the golden proposal PDFs.",
+  "scripts": {
+    "extract": "node extract-layout.mjs"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^4.10.38"
+  }
+}

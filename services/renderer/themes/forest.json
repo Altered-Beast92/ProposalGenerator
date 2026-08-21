@@ -1,0 +1,13 @@
+{
+  "$comment": "Example theme. Only the roles listed here change; everything else keeps its default from packages/spec/palette.json.",
+  "brandDeep": "#0B2E23",
+  "brandDeepAlt": "#12513C",
+  "primary": "#0B6E4F",
+  "primaryLight": "#3E9B77",
+  "primaryTint": "#E4F2EC",
+  "secondary": "#E0A526",
+  "secondaryTint": "#FBF1DA",
+  "ink": "#16211C",
+  "body": "#4A5952",
+  "muted": "#8A968F"
+}
